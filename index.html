@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Telegram Gifts — FunPay</title>
+<link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Syne:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0c0808;--bg-panel:#161010;--bg-input:#201414;--bg-card:#13121a;--accent:#f28888;--glow:rgba(242,136,136,.16);--muted:#6e5e5e;--border:rgba(242,136,136,.12);--text:#f2eded;--green:#4ade80;--green-bg:rgba(74,222,128,.1)}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Syne',sans-serif;background:var(--bg);background-image:radial-gradient(ellipse 90% 35% at 50% -5%,rgba(242,80,80,.07) 0%,transparent 65%);color:var(--text);padding:24px 16px 60px;min-height:100vh}
+.wrap{max-width:1500px;margin:0 auto;display:flex;flex-direction:column;gap:18px}
+.hdr{display:flex;align-items:center;gap:12px;padding-bottom:14px;border-bottom:1px solid var(--border)}
+.hdr-icon{width:36px;height:36px;background:var(--accent);border-radius:9px;display:flex;align-items:center;justify-content:center;font-size:18px;box-shadow:0 0 20px var(--glow);flex-shrink:0}
+.hdr-title{font-size:1.4rem;font-weight:800;letter-spacing:-.03em}
+.hdr-title span{color:var(--accent)}
+.hdr-right{margin-left:auto;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.badge{font-family:'Space Mono',monospace;font-size:.65rem;padding:3px 9px;border-radius:20px;border:1px solid var(--border);color:var(--muted);white-space:nowrap}
+.badge.live{color:var(--green);border-color:rgba(74,222,128,.3);background:var(--green-bg)}
+.badge.fp{color:var(--accent);border-color:rgba(242,136,136,.35);background:rgba(242,136,136,.07);text-decoration:none;transition:background .2s}
+.badge.fp:hover{background:rgba(242,136,136,.18)}
+.panel{background:var(--bg-panel);border:1px solid var(--border);border-radius:16px;padding:16px 18px;display:flex;flex-direction:column;gap:12px}
+.search-row{display:flex;gap:8px}
+.search-row input{flex:1;background:var(--bg-input);border:1px solid var(--border);color:var(--text);padding:10px 14px;border-radius:10px;font-family:'Syne',sans-serif;font-size:.88rem;outline:none;transition:border-color .2s}
+.search-row input:focus{border-color:var(--accent)}
+.search-row input::placeholder{color:var(--muted)}
+.btn{border:none;padding:0 16px;border-radius:10px;font-family:'Syne',sans-serif;font-weight:700;font-size:.8rem;cursor:pointer;transition:background .18s;white-space:nowrap;height:40px}
+.btn-reset{background:#7f1d1d;color:#ffcece}
+.btn-reset:hover{background:#991b1b}
+.fgrid{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center}
+.fg{display:flex;align-items:center;gap:6px}
+.fg label{font-family:'Space Mono',monospace;font-size:.65rem;color:var(--muted);white-space:nowrap}
+.fg select{background:var(--bg-input);color:var(--text);border:1px solid var(--border);padding:7px 10px;border-radius:8px;font-family:'Syne',sans-serif;font-size:.8rem;outline:none;cursor:pointer;max-width:180px}
+.fg select:focus{border-color:var(--accent)}
+.slider-wrap{display:flex;align-items:center;gap:8px;flex-grow:1;max-width:320px}
+.slider-wrap input[type=range]{flex:1;accent-color:var(--accent);cursor:pointer}
+.price-lbl{font-family:'Space Mono',monospace;font-size:.8rem;color:var(--accent);font-weight:700;white-space:nowrap;min-width:90px}
+.chips{display:flex;flex-wrap:wrap;gap:6px}
+.chip{display:inline-flex;align-items:center;gap:5px;background:rgba(242,136,136,.09);border:1px solid rgba(242,136,136,.22);color:var(--accent);font-family:'Space Mono',monospace;font-size:.61rem;padding:3px 9px 3px 10px;border-radius:20px;cursor:pointer;transition:background .15s}
+.chip:hover{background:rgba(242,136,136,.2)}
+.status-bar{display:flex;align-items:center;gap:10px}
+#spinner{width:13px;height:13px;border:2px solid var(--border);border-top-color:var(--accent);border-radius:50%;animation:spin .65s linear infinite;display:none;flex-shrink:0}
+@keyframes spin{to{transform:rotate(360deg)}}
+.status-txt{font-family:'Space Mono',monospace;font-size:.72rem;color:var(--muted)}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:16px}
+.card{border:1.5px solid var(--accent);border-radius:18px;overflow:hidden;display:flex;flex-direction:column;position:relative;text-decoration:none;color:inherit;background:var(--bg-card);aspect-ratio:1/1.3;transition:transform .17s,box-shadow .17s}
+.card:hover{transform:translateY(-4px) scale(1.015);box-shadow:0 8px 28px rgba(242,100,100,.18)}
+.c-num{position:absolute;top:8px;right:8px;background:rgba(0,0,0,.6);backdrop-filter:blur(6px);color:#fff;font-family:'Space Mono',monospace;font-size:.62rem;padding:2px 7px;border-radius:20px;z-index:3}
+.c-img{width:100%;height:62%;display:flex;align-items:center;justify-content:center;overflow:hidden;position:relative;background:#1a1a2e}
+.c-img::after{content:'';position:absolute;inset:0;background:radial-gradient(ellipse at center,transparent 40%,rgba(0,0,0,.25) 100%);pointer-events:none;z-index:2}
+.c-img img{max-width:75%;max-height:75%;object-fit:contain;z-index:1;opacity:0;transition:opacity .3s,transform .3s}
+.c-img img.ok{opacity:1}
+.card:hover .c-img img{transform:scale(1.07)}
+.c-body{flex:1;padding:10px 13px 12px;display:flex;flex-direction:column;justify-content:space-between;border-top:1px solid rgba(255,255,255,.04)}
+.c-name{font-size:.93rem;font-weight:800;letter-spacing:-.02em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.c-meta{font-family:'Space Mono',monospace;font-size:.58rem;color:#5a4f4f;line-height:1.6;margin-top:3px}
+.c-price{font-family:'Space Mono',monospace;font-size:1.05rem;font-weight:700;color:var(--accent);margin-top:5px}
+.c-ton{font-family:'Space Mono',monospace;font-size:.6rem;color:var(--muted);margin-top:1px}
+.empty{grid-column:1/-1;text-align:center;padding:60px 20px;font-family:'Space Mono',monospace;font-size:.8rem;color:var(--muted)}
+.footer{text-align:center;padding-top:10px;border-top:1px solid var(--border);font-family:'Space Mono',monospace;font-size:.67rem;color:var(--muted);line-height:1.8}
+.footer a{color:var(--accent);text-decoration:none}
+.footer a:hover{text-decoration:underline}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="hdr">
+    <div class="hdr-icon">🎁</div>
+    <div class="hdr-title">Gift<span>Market</span></div>
+    <div class="hdr-right">
+        <span id="src-badge" class="badge">⏳ загрузка…</span>
+        <a href="https://funpay.com/users/13409860/" target="_blank" rel="noopener" class="badge fp">🛒 Купить на FunPay</a>
+    </div>
+</header>
+<section class="panel">
+    <div class="search-row">
+        <input type="text" id="q" placeholder="Поиск по названию…">
+        <button class="btn btn-reset" id="btn-reset">Сбросить</button>
+    </div>
+    <div class="fgrid">
+        <div class="fg"><label>Коллекция</label><select id="f-coll"><option value="">Все</option></select></div>
+        <div class="fg"><label>Модель</label><select id="f-model"><option value="">Все</option></select></div>
+        <div class="fg"><label>Фон</label><select id="f-back"><option value="">Все</option></select></div>
+        <div class="fg"><label>Символ</label><select id="f-sym"><option value="">Все</option></select></div>
+        <div class="fg"><label>Сортировка</label><select id="f-sort"><option value="asc">Сначала дешевле</option><option value="desc">Сначала дороже</option></select></div>
+        <div class="fg slider-wrap">
+            <label>до</label>
+            <input type="range" id="f-price" min="0" max="99999" step="50" value="99999">
+            <span class="price-lbl"><span id="pval">—</span> ₽</span>
+        </div>
+    </div>
+    <div class="chips" id="chips"></div>
+</section>
+<div class="status-bar">
+    <div id="spinner"></div>
+    <span class="status-txt" id="status">Загрузка…</span>
+</div>
+<main class="grid" id="grid"></main>
+<footer class="footer">
+    Продавец: <a href="https://funpay.com/users/13409860/" target="_blank" rel="noopener">funpay.com/users/13409860</a>
+</footer>
+</div>
+<script>
+const FUNPAY='https://funpay.com/users/13409860/';
+const MARKUP=1.35,MIN_RUB=600,TON_RATE=138.5,MAX_TON=8;
+let ALL=[];
+function rubPrice(ton){const r=Math.ceil(ton*TON_RATE*MARKUP);return r<MIN_RUB?MIN_RUB:r;}
+const fmtRub=n=>n.toLocaleString('ru-RU')+' ₽';
+const fmtTon=n=>(+n).toFixed(2)+' TON';
+function norm(raw){
+    const ton=parseFloat(raw.price||0);
+    if(!ton||ton>MAX_TON)return null;
+    const attrs=raw.attributes||[];
+    const ga=t=>(attrs.find(a=>a.type===t)||{}).value||'';
+    const tgStr=String(raw.tg_id||'');
+    const num=raw.external_collection_number||tgStr.replace(/\D/g,'')||'';
+    const slug=(raw.name||'').toLowerCase().replace(/[^a-z0-9]/g,'');
+    return{
+        id:raw.id||slug,name:raw.name||'Unknown',num:String(num),
+        model:ga('model'),backdrop:ga('backdrop'),symbol:ga('symbol'),ton,
+        photo:raw.photo_url||`https://nft.fragment.com/gift/${slug}-${num}.medium.jpg`,
+        slug,portalUrl:raw.id?`https://portals.tg/nft/${raw.id}`:FUNPAY
+    };
+}
+async function load(){
+    spin(true);badge('⏳ загрузка…','');
+    try{
+        const r=await fetch('./market_data.json?_='+Date.now());
+        if(!r.ok)throw new Error('HTTP '+r.status);
+        const data=await r.json();
+        const raw=Array.isArray(data)?data:(data.results||data.items||data.gifts||data.data||[]);
+        ALL=raw.map(norm).filter(Boolean);
+        badge('✅ '+ALL.length+' подарков','live');
+        buildDropdowns();initSlider();apply();
+    }catch(e){
+        badge('❌ '+e.message,'');
+        document.getElementById('status').textContent='Ошибка загрузки данных';
+        document.getElementById('grid').innerHTML='<div class="empty">Запустите update_market.py и обновите страницу</div>';
+    }
+    spin(false);
+}
+function uniq(arr){return[...new Set(arr.filter(Boolean))].sort((a,b)=>a.localeCompare(b,'ru'));}
+function fillSel(id,vals){
+    const sel=document.getElementById(id),prev=sel.value;
+    sel.innerHTML='<option value="">Все</option>';
+    vals.forEach(v=>{const o=document.createElement('option');o.value=o.textContent=v;sel.appendChild(o);});
+    if([...sel.options].some(o=>o.value===prev))sel.value=prev;
+}
+function buildDropdowns(){
+    fillSel('f-coll',uniq(ALL.map(i=>i.name)));
+    fillSel('f-model',uniq(ALL.map(i=>i.model)));
+    fillSel('f-back',uniq(ALL.map(i=>i.backdrop)));
+    fillSel('f-sym',uniq(ALL.map(i=>i.symbol).filter(Boolean)));
+}
+function initSlider(){
+    const max=Math.max(...ALL.map(i=>rubPrice(i.ton)),MIN_RUB);
+    const sl=document.getElementById('f-price');
+    sl.max=max;sl.value=max;
+    document.getElementById('pval').textContent=max.toLocaleString('ru-RU');
+}
+const CHIPS=[{label:'Коллекция',id:'f-coll'},{label:'Модель',id:'f-model'},{label:'Фон',id:'f-back'},{label:'Символ',id:'f-sym'}];
+function buildChips(){
+    const box=document.getElementById('chips');box.innerHTML='';
+    CHIPS.forEach(({label,id})=>{
+        const sel=document.getElementById(id);if(!sel.value)return;
+        const c=document.createElement('span');c.className='chip';
+        c.innerHTML=`${label}: ${sel.value} <span style="opacity:.6;margin-left:3px">✕</span>`;
+        c.onclick=()=>{sel.value='';apply();};box.appendChild(c);
+    });
+}
+function apply(){
+    const q=document.getElementById('q').value.toLowerCase().trim();
+    const coll=document.getElementById('f-coll').value;
+    const model=document.getElementById('f-model').value;
+    const back=document.getElementById('f-back').value;
+    const sym=document.getElementById('f-sym').value;
+    const maxP=parseInt(document.getElementById('f-price').value)||999999;
+    const asc=document.getElementById('f-sort').value==='asc';
+    let res=ALL.filter(i=>{
+        if(rubPrice(i.ton)>maxP)return false;
+        if(q&&!i.name.toLowerCase().includes(q))return false;
+        if(coll&&i.name!==coll)return false;
+        if(model&&i.model!==model)return false;
+        if(back&&i.backdrop!==back)return false;
+        if(sym&&i.symbol!==sym)return false;
+        return true;
+    });
+    res.sort((a,b)=>{const d=rubPrice(a.ton)-rubPrice(b.ton);return asc?d:-d;});
+    buildChips();render(res);
+}
+function render(data){
+    const grid=document.getElementById('grid');grid.innerHTML='';
+    document.getElementById('status').textContent='Показано: '+data.length+' подарков';
+    if(!data.length){grid.innerHTML='<div class="empty">Ничего не найдено — измените фильтры</div>';return;}
+    const frag=document.createDocumentFragment();
+    data.forEach(item=>{
+        const rub=rubPrice(item.ton);
+        const a=document.createElement('a');
+        a.href=item.portalUrl;a.target='_blank';a.rel='noopener noreferrer';a.className='card';
+        a.innerHTML=`
+            <div class="c-num">#${item.num||'—'}</div>
+            <div class="c-img"><img src="${item.photo}" alt="${item.name}" loading="lazy"></div>
+            <div class="c-body">
+                <div>
+                    <div class="c-name">${item.name}</div>
+                    <div class="c-meta">${item.model?'модель · '+item.model+'<br>':''}${item.backdrop?'фон · '+item.backdrop:''}${item.symbol?'<br>символ · '+item.symbol:''}</div>
+                </div>
+                <div>
+                    <div class="c-price">${fmtRub(rub)}</div>
+                    <div class="c-ton">${fmtTon(item.ton)}</div>
+                </div>
+            </div>`;
+        const img=a.querySelector('img');
+        img.onload=()=>img.classList.add('ok');
+        img.onerror=()=>{if(!img._t){img._t=true;img.src=`https://nft.fragment.com/gift/${item.slug}.medium.jpg`;}else{img.style.opacity='.08';}};
+        frag.appendChild(a);
+    });
+    grid.appendChild(frag);
+}
+function spin(v){document.getElementById('spinner').style.display=v?'block':'none';}
+function badge(txt,cls){const b=document.getElementById('src-badge');b.textContent=txt;b.className='badge'+(cls?' '+cls:'');}
+document.getElementById('f-price').addEventListener('input',e=>{document.getElementById('pval').textContent=parseInt(e.target.value).toLocaleString('ru-RU');});
+document.getElementById('f-price').addEventListener('change',apply);
+['q','f-coll','f-model','f-back','f-sym','f-sort'].forEach(id=>{const el=document.getElementById(id);el.addEventListener('input',apply);el.addEventListener('change',apply);});
+document.getElementById('btn-reset').addEventListener('click',()=>{
+    document.getElementById('q').value='';
+    ['f-coll','f-model','f-back','f-sym'].forEach(id=>document.getElementById(id).value='');
+    document.getElementById('f-sort').value='asc';
+    const sl=document.getElementById('f-price');sl.value=sl.max;
+    document.getElementById('pval').textContent=parseInt(sl.max).toLocaleString('ru-RU');
+    apply();
+});
+load();
+</script>
+</body>
+</html>
