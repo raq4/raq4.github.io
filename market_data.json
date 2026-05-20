@@ -1,882 +1,413 @@
 {
     "results": [
         {
-            "id": "019e3574-6242-74be-af9d-9f1e8e76021f",
+            "id": "0f0b3fcf-9eda-41a9-a0fb-c37d4fba68ee",
             "bundle_id": null,
-            "tg_id": "PoolFloat-201780",
-            "collection_id": "ef4acdf4-60c9-47b9-8501-59e2229074a4",
-            "external_collection_number": 201780,
-            "name": "Pool Float",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Pool%20Float/Toucan_Purple_Paw.png",
-            "price": "2.29",
+            "tg_id": "JollyChimp-18516",
+            "collection_id": "7a44c400-e762-4385-83a0-a146ab225dee",
+            "external_collection_number": 18516,
+            "name": "Jolly Chimp",
+            "photo_url": "https://nft.fragment.com/gift/jollychimp-18516.medium.jpg",
+            "price": "27.87",
             "attributes": [
                 {
                     "type": "model",
-                    "value": "Toucan",
-                    "rarity_per_mille": 2.5
+                    "value": "Bank Robber",
+                    "rarity_per_mille": 1.5
                 },
                 {
                     "type": "symbol",
-                    "value": "Paw",
-                    "rarity_per_mille": 0.4
+                    "value": "Boat",
+                    "rarity_per_mille": 0.5
                 },
                 {
                     "type": "backdrop",
-                    "value": "Purple",
-                    "rarity_per_mille": 1
+                    "value": "Fire Engine",
+                    "rarity_per_mille": 1.2
                 }
             ],
-            "listed_at": "2026-05-17T12:39:13.15505Z",
+            "listed_at": "2026-05-20T23:23:08.42702Z",
             "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/poolfloat-201780.lottie.json",
-            "emoji_id": "1391391008142393378",
+            "animation_url": "https://nft.fragment.com/gift/jollychimp-18516.lottie.json",
+            "emoji_id": "5244803664312298777",
             "has_animation": true,
             "import_source": "user_bot",
-            "imported_at": "2026-05-17T10:21:20.400074Z",
-            "floor_price": "2.28",
-            "unlocks_at": "2026-04-23T10:02:46Z",
+            "imported_at": "2025-12-09T16:04:02.753351Z",
+            "floor_price": "4.9",
+            "unlocks_at": "2025-09-02T05:47:57Z",
             "is_crafted": false,
             "lucky_buy_eligible": true,
             "is_owned": false
         },
         {
-            "id": "019e356b-96fd-788e-a1f3-10d0f8bd6202",
+            "id": "019db68d-05a0-75f4-a2e1-8553812c0b82",
             "bundle_id": null,
-            "tg_id": "PoolFloat-31158",
-            "collection_id": "ef4acdf4-60c9-47b9-8501-59e2229074a4",
-            "external_collection_number": 31158,
-            "name": "Pool Float",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Pool%20Float/Giraffe_Sapphire_Tulip.png",
-            "price": "2.29",
+            "tg_id": "ViceCream-180410",
+            "collection_id": "b0fcb92a-0e46-46a3-8c60-ce226880632f",
+            "external_collection_number": 180410,
+            "name": "Vice Cream",
+            "photo_url": "https://storage.googleapis.com/generate_gifts/Vice%20Cream/Stay%20Chill_Satin%20Gold_Novus%20Ordo.png",
+            "price": "5.89",
             "attributes": [
                 {
                     "type": "model",
-                    "value": "Giraffe",
+                    "value": "Stay Chill",
+                    "rarity_per_mille": 2
+                },
+                {
+                    "type": "symbol",
+                    "value": "Novus Ordo",
+                    "rarity_per_mille": 0.4
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Satin Gold",
+                    "rarity_per_mille": 1.5
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:08.31086Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/vicecream-180410.lottie.json",
+            "emoji_id": "328260442013040674",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-04-22T18:56:28.643133Z",
+            "floor_price": "1.77",
+            "unlocks_at": "2026-04-20T12:43:30Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "72a04182-e755-4224-b055-ced1e78b8a2a",
+            "bundle_id": null,
+            "tg_id": "IceCream-10710",
+            "collection_id": "a4434643-6add-47e1-a68b-8c15b1807b75",
+            "external_collection_number": 10710,
+            "name": "Ice Cream",
+            "photo_url": "https://nft.fragment.com/gift/icecream-10710.medium.jpg",
+            "price": "6",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Banana",
                     "rarity_per_mille": 3
                 },
                 {
                     "type": "symbol",
-                    "value": "Tulip",
-                    "rarity_per_mille": 0.4
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Sapphire",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:13.154092Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/poolfloat-31158.lottie.json",
-            "emoji_id": "1391391008142393378",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-05-17T10:11:44.080603Z",
-            "floor_price": "2.28",
-            "unlocks_at": "2026-05-03T13:05:46Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "bcc08b72-03de-430b-b694-6f302e408cd1",
-            "bundle_id": null,
-            "tg_id": "FreshSocks-61984",
-            "collection_id": "5dcccebc-1977-47db-8e3e-6f92bb83c15d",
-            "external_collection_number": 61984,
-            "name": "Fresh Socks",
-            "photo_url": "https://nft.fragment.com/gift/freshsocks-61984.medium.jpg",
-            "price": "14.99",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Mad Scientist",
-                    "rarity_per_mille": 1.5
-                },
-                {
-                    "type": "symbol",
-                    "value": "Thor Hammer",
+                    "value": "Paw",
                     "rarity_per_mille": 0.5
                 },
                 {
                     "type": "backdrop",
-                    "value": "Pure Gold",
+                    "value": "Orange",
                     "rarity_per_mille": 1
                 }
             ],
-            "listed_at": "2026-05-17T12:39:13.116209Z",
+            "listed_at": "2026-05-20T23:23:07.943352Z",
             "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/freshsocks-61984.lottie.json",
-            "emoji_id": "1860749763008266268",
+            "animation_url": "https://nft.fragment.com/gift/icecream-10710.lottie.json",
+            "emoji_id": "2562980648230846502",
             "has_animation": true,
             "import_source": "user_bot",
-            "imported_at": "2026-01-22T23:23:36.864861Z",
-            "floor_price": "2.14",
-            "unlocks_at": "2025-09-27T15:11:12Z",
+            "imported_at": "2025-12-24T02:26:19.205864Z",
+            "floor_price": "1.91",
+            "unlocks_at": "2025-11-01T06:45:45Z",
             "is_crafted": false,
             "lucky_buy_eligible": true,
             "is_owned": false
         },
         {
-            "id": "019d4591-8b42-73bc-9c5b-4736aab46ac6",
+            "id": "019d4a2d-cf63-7612-9b50-7da8ad57d82d",
             "bundle_id": null,
-            "tg_id": "ChillFlame-360617",
+            "tg_id": "ChillFlame-18552",
             "collection_id": "e6c83d75-726c-4165-8547-4d7766e3f210",
-            "external_collection_number": 360617,
+            "external_collection_number": 18552,
             "name": "Chill Flame",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Chill%20Flame/Terraria_Tomato_Mushroom.png",
-            "price": "8.86",
+            "photo_url": "https://storage.googleapis.com/generate_gifts/Chill%20Flame/Bull%20Run_Mustard_Celtic%20Wolf.png",
+            "price": "6.22",
             "attributes": [
                 {
                     "type": "model",
-                    "value": "Terraria",
-                    "rarity_per_mille": 0.5
+                    "value": "Bull Run",
+                    "rarity_per_mille": 3
                 },
                 {
                     "type": "symbol",
-                    "value": "Mushroom",
-                    "rarity_per_mille": 0.4
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Tomato",
-                    "rarity_per_mille": 1.2
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:13.079522Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/chillflame-360617.lottie.json",
-            "emoji_id": "7173162320003137",
-            "import_source": "user_bot",
-            "imported_at": "2026-03-31T20:24:19.644515Z",
-            "floor_price": "1.8",
-            "unlocks_at": "2026-04-17T10:38:44Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019d9814-2e3c-7b4a-8b63-486f43a7c7c4",
-            "bundle_id": null,
-            "tg_id": "HexPot-3981",
-            "collection_id": "66e62058-8600-471f-909b-844751f5f103",
-            "external_collection_number": 3981,
-            "name": "Hex Pot",
-            "photo_url": "https://nft.fragment.com/gift/hexpot-3981.large.jpg",
-            "price": "6.54",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Coldbrew",
-                    "rarity_per_mille": 0.4
-                },
-                {
-                    "type": "symbol",
-                    "value": "Witch’s Hat",
-                    "rarity_per_mille": 2.4
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Chocolate",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:13.041885Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/hexpot-3981.lottie.json",
-            "emoji_id": "1108385588555284518",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-04-16T20:55:52.781924Z",
-            "floor_price": "1.99",
-            "unlocks_at": "2026-02-05T04:01:44Z",
-            "ton_address": "EQDrPg-l3nDPPP735T0LrKCIes9PHjGNbxifVEyBbjv-N9Ho",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019e0333-dedb-7215-a17e-228c54aa7186",
-            "bundle_id": null,
-            "tg_id": "JoyfulBundle-23359",
-            "collection_id": "c2d8ee29-e14b-4372-9b79-72407f9d593d",
-            "external_collection_number": 23359,
-            "name": "Joyful Bundle",
-            "photo_url": "https://nft.fragment.com/gift/joyfulbundle-23359.large.jpg",
-            "price": "6.2",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Telegram",
-                    "rarity_per_mille": 1
-                },
-                {
-                    "type": "symbol",
-                    "value": "Love Daisy",
-                    "rarity_per_mille": 0.7
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Turquoise",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:13.037611Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/joyfulbundle-23359.lottie.json",
-            "emoji_id": "1903541432711381017",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-05-07T16:09:51.666163Z",
-            "floor_price": "4.38",
-            "unlocks_at": "2025-07-28T05:58:31Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019c5fd5-f730-7b1d-922a-4989c7c3afc4",
-            "bundle_id": null,
-            "tg_id": "InputKey-74448",
-            "collection_id": "46c95fc3-b4a5-492c-9bb9-974c4c27d858",
-            "external_collection_number": 74448,
-            "name": "Input Key",
-            "photo_url": "https://nft.fragment.com/gift/inputkey-74448.large.jpg",
-            "price": "6.48",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Astrobot",
-                    "rarity_per_mille": 1.5
-                },
-                {
-                    "type": "symbol",
-                    "value": "Monarch",
-                    "rarity_per_mille": 0.2
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Old Gold",
-                    "rarity_per_mille": 1
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.987552Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/inputkey-74448.lottie.json",
-            "emoji_id": "7173162320003121",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-02-15T05:46:24.044605Z",
-            "floor_price": "2.86",
-            "unlocks_at": "2025-12-22T16:48:47Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019c5a66-fdfa-7792-9ae8-e32722eab4d1",
-            "bundle_id": null,
-            "tg_id": "HolidayDrink-76418",
-            "collection_id": "6bf906a0-e5b1-4c7f-b741-a70c3f7ed77b",
-            "external_collection_number": 76418,
-            "name": "Holiday Drink",
-            "photo_url": "https://nft.fragment.com/gift/holidaydrink-76418.large.jpg",
-            "price": "2.14",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Mr. Freeze",
-                    "rarity_per_mille": 1.3
-                },
-                {
-                    "type": "symbol",
-                    "value": "Turban",
-                    "rarity_per_mille": 0.5
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Platinum",
-                    "rarity_per_mille": 1.2
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.961946Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/holidaydrink-76418.lottie.json",
-            "emoji_id": "35707580709863436",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-05-08T08:19:04.330492Z",
-            "floor_price": "1.81",
-            "unlocks_at": "2026-05-07T16:03:23Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "1e2c6f53-05c9-4098-8117-43ed8b813540",
-            "bundle_id": null,
-            "tg_id": "EasterEgg-133873",
-            "collection_id": "88a37665-6d13-4619-afa9-47de8464adb4",
-            "external_collection_number": 133873,
-            "name": "Easter Egg",
-            "photo_url": "https://nft.fragment.com/gift/easteregg-133873.medium.jpg",
-            "price": "2.2",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Cactus",
-                    "rarity_per_mille": 1
-                },
-                {
-                    "type": "symbol",
-                    "value": "Ram of Amun",
+                    "value": "Celtic Wolf",
                     "rarity_per_mille": 0.3
                 },
                 {
                     "type": "backdrop",
-                    "value": "Ivory White",
-                    "rarity_per_mille": 1.2
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.960935Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/easteregg-133873.lottie.json",
-            "emoji_id": "1145788388561911828",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-05-16T23:24:06.973751Z",
-            "floor_price": "1.96",
-            "unlocks_at": "2026-01-15T14:19:38Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019cd681-96e3-723c-89e4-009c6f870a0b",
-            "bundle_id": null,
-            "tg_id": "CandyCane-7425",
-            "collection_id": "8b001ea2-5a73-4a61-a3a2-6f01d557fee7",
-            "external_collection_number": 7425,
-            "name": "Candy Cane",
-            "photo_url": "https://nft.fragment.com/gift/candycane-7425.large.jpg",
-            "price": "2.27",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Angelius",
-                    "rarity_per_mille": 2
-                },
-                {
-                    "type": "symbol",
-                    "value": "Bowtie",
-                    "rarity_per_mille": 2.4
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Hunter Green",
-                    "rarity_per_mille": 1.2
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.960105Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/candycane-7425.lottie.json",
-            "emoji_id": "1260742488159682583",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-03-19T20:57:08.834645Z",
-            "floor_price": "1.79",
-            "unlocks_at": "2025-10-08T14:56:08Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "17e113e8-b3b2-4c77-8a0d-f8d2d1515919",
-            "bundle_id": null,
-            "tg_id": "GingerCookie-93254",
-            "collection_id": "b85209cd-4e16-4d1a-985c-d784619fe2d0",
-            "external_collection_number": 93254,
-            "name": "Ginger Cookie",
-            "photo_url": "https://nft.fragment.com/gift/gingercookie-93254.medium.jpg",
-            "price": "3.75",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Galleta",
-                    "rarity_per_mille": 0.6
-                },
-                {
-                    "type": "symbol",
-                    "value": "Gift Box",
-                    "rarity_per_mille": 1.8
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Jade Green",
-                    "rarity_per_mille": 2
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.958006Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/gingercookie-93254.lottie.json",
-            "emoji_id": "1604927367531200566",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-05-08T14:08:30.298838Z",
-            "floor_price": "2.3",
-            "unlocks_at": "2025-06-14T16:22:08Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019d2190-8b92-7342-a418-b40c706911a5",
-            "bundle_id": null,
-            "tg_id": "TimelessBook-63328",
-            "collection_id": "913df7f3-c9da-4835-965a-f539838673fa",
-            "external_collection_number": 63328,
-            "name": "Timeless Book",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Timeless%20Book/Fairy%20Tales_Hunter%20Green_Tsunami.png",
-            "price": "13.85",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Fairy Tales",
+                    "value": "Mustard",
                     "rarity_per_mille": 1
-                },
-                {
-                    "type": "symbol",
-                    "value": "Tsunami",
-                    "rarity_per_mille": 0.6
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Hunter Green",
-                    "rarity_per_mille": 1.5
                 }
             ],
-            "listed_at": "2026-05-17T12:39:12.743793Z",
+            "listed_at": "2026-05-20T23:23:07.907504Z",
             "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/timelessbook-63328.lottie.json",
-            "emoji_id": "750766425144033312",
+            "animation_url": "https://nft.fragment.com/gift/chillflame-18552.lottie.json",
+            "emoji_id": "7173162320003137",
             "import_source": "user_bot",
-            "imported_at": "2026-03-24T20:36:54.454706Z",
-            "floor_price": "2.77",
-            "unlocks_at": "2026-03-24T20:36:53Z",
+            "imported_at": "2026-04-01T17:53:29.555339Z",
+            "floor_price": "1.76",
+            "unlocks_at": "2026-04-01T17:53:26Z",
             "is_crafted": false,
             "lucky_buy_eligible": true,
             "is_owned": false
         },
         {
-            "id": "a077a19a-7aa2-4acf-b85a-6f7961d02230",
+            "id": "1206d432-ac62-4257-aeb7-3e05d5631b08",
             "bundle_id": null,
-            "tg_id": "HappyBrownie-206840",
-            "collection_id": "27ff8a55-f9b7-435d-af08-1063fdf1e026",
-            "external_collection_number": 206840,
-            "name": "Happy Brownie",
-            "photo_url": "https://nft.fragment.com/gift/happybrownie-206840.medium.jpg",
-            "price": "6.85",
+            "tg_id": "MoneyPot-10917",
+            "collection_id": "99f08b67-8723-4506-99e2-b16a5c58ef2a",
+            "external_collection_number": 10917,
+            "name": "Money Pot",
+            "photo_url": "https://nft.fragment.com/gift/moneypot-10917.medium.jpg",
+            "price": "9.01",
             "attributes": [
                 {
                     "type": "model",
-                    "value": "Dirty Bomb",
-                    "rarity_per_mille": 2.5
+                    "value": "Cowboy",
+                    "rarity_per_mille": 1.5
                 },
                 {
                     "type": "symbol",
-                    "value": "Sun Mountain",
+                    "value": "Ladybug",
                     "rarity_per_mille": 0.2
                 },
                 {
                     "type": "backdrop",
-                    "value": "Chocolate",
+                    "value": "Midnight Blue",
                     "rarity_per_mille": 1.5
                 }
             ],
-            "listed_at": "2026-05-17T12:39:12.742374Z",
+            "listed_at": "2026-05-20T23:23:07.906408Z",
             "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/happybrownie-206840.lottie.json",
-            "emoji_id": "328260442013040673",
+            "animation_url": "https://nft.fragment.com/gift/moneypot-10917.lottie.json",
+            "emoji_id": "1137162165791227939",
             "has_animation": true,
             "import_source": "user_bot",
-            "imported_at": "2026-01-13T13:40:55.918121Z",
-            "floor_price": "2.1",
-            "unlocks_at": "2026-01-12T22:17:52Z",
+            "imported_at": "2026-04-27T21:55:13.622206Z",
+            "floor_price": "2.38",
+            "unlocks_at": "2025-11-24T10:37:48Z",
             "is_crafted": false,
             "lucky_buy_eligible": true,
             "is_owned": false
         },
         {
-            "id": "019e252b-25f4-76e9-9de3-4626334eb6f6",
+            "id": "019cdd75-7914-73c3-9503-6e47931b8056",
             "bundle_id": null,
-            "tg_id": "SkyStilettos-49286",
-            "collection_id": "5dc9c807-f1de-4790-8b53-df3f403b8801",
-            "external_collection_number": 49286,
-            "name": "Sky Stilettos",
-            "photo_url": "https://nft.fragment.com/gift/skystilettos-49286.large.jpg",
-            "price": "37",
+            "tg_id": "FaithAmulet-127613",
+            "collection_id": "1583eda9-f5fe-4265-833b-ab973e30afc8",
+            "external_collection_number": 127613,
+            "name": "Faith Amulet",
+            "photo_url": "https://nft.fragment.com/gift/faithamulet-127613.large.jpg",
+            "price": "8.74",
             "attributes": [
                 {
                     "type": "model",
-                    "value": "Cinderella",
-                    "rarity_per_mille": 1
+                    "value": "Sunset Gem",
+                    "rarity_per_mille": 1.5
                 },
                 {
                     "type": "symbol",
-                    "value": "Heart Glasses",
+                    "value": "Origami",
                     "rarity_per_mille": 0.7
                 },
                 {
                     "type": "backdrop",
-                    "value": "Amber",
-                    "rarity_per_mille": 1
+                    "value": "Midnight Blue",
+                    "rarity_per_mille": 1.2
                 }
             ],
-            "listed_at": "2026-05-17T12:39:12.728908Z",
+            "listed_at": "2026-05-20T23:23:07.904337Z",
             "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/skystilettos-49286.lottie.json",
-            "emoji_id": "778160933443731516",
+            "animation_url": "https://nft.fragment.com/gift/faithamulet-127613.lottie.json",
+            "emoji_id": "1901206392136531988",
             "has_animation": true,
             "import_source": "user_bot",
-            "imported_at": "2026-05-14T06:27:25.428639Z",
-            "floor_price": "9.49",
-            "unlocks_at": "2026-05-09T08:25:15Z",
-            "ton_address": "EQBzCCU6aFrM3oxm4bdtAVT8ijclrsxuzpW9ZiJqQeK-kqqr",
+            "imported_at": "2026-03-11T15:13:09.47708Z",
+            "floor_price": "2.96",
+            "unlocks_at": "2025-12-25T11:08:22Z",
             "is_crafted": false,
             "lucky_buy_eligible": true,
             "is_owned": false
         },
         {
-            "id": "02821659-c7ca-499d-93c1-e34ce34fb80a",
+            "id": "fa9fa08a-a79d-43f0-aa29-557e9f089d95",
             "bundle_id": null,
-            "tg_id": "IceCream-208848",
-            "collection_id": "a4434643-6add-47e1-a68b-8c15b1807b75",
-            "external_collection_number": 208848,
-            "name": "Ice Cream",
-            "photo_url": "https://nft.fragment.com/gift/icecream-208848.medium.jpg",
-            "price": "11.71",
+            "tg_id": "HappyBrownie-50238",
+            "collection_id": "27ff8a55-f9b7-435d-af08-1063fdf1e026",
+            "external_collection_number": 50238,
+            "name": "Happy Brownie",
+            "photo_url": "https://nft.fragment.com/gift/happybrownie-50238.medium.jpg",
+            "price": "8.01",
             "attributes": [
                 {
                     "type": "model",
-                    "value": "Extra Spicy",
-                    "rarity_per_mille": 2
+                    "value": "Cactus",
+                    "rarity_per_mille": 3
                 },
                 {
                     "type": "symbol",
-                    "value": "Obon Lantern",
+                    "value": "Beret",
                     "rarity_per_mille": 0.4
                 },
                 {
                     "type": "backdrop",
-                    "value": "Gunmetal",
+                    "value": "Shamrock Green",
                     "rarity_per_mille": 1
                 }
             ],
-            "listed_at": "2026-05-17T12:39:12.66273Z",
+            "listed_at": "2026-05-20T23:23:07.903503Z",
             "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/icecream-208848.lottie.json",
+            "animation_url": "https://nft.fragment.com/gift/happybrownie-50238.lottie.json",
+            "emoji_id": "328260442013040673",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2025-11-02T16:08:53.327699Z",
+            "floor_price": "2.25",
+            "unlocks_at": "2025-11-01T09:34:40Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019dd0ee-1d87-7c28-a6e8-3d08a1dd9ba8",
+            "bundle_id": null,
+            "tg_id": "TimelessBook-29187",
+            "collection_id": "913df7f3-c9da-4835-965a-f539838673fa",
+            "external_collection_number": 29187,
+            "name": "Timeless Book",
+            "photo_url": "https://storage.googleapis.com/generate_gifts/Timeless%20Book/Lovecraft_Malachite_Sea%20Jelly.png",
+            "price": "22.02",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Lovecraft",
+                    "rarity_per_mille": 1
+                },
+                {
+                    "type": "symbol",
+                    "value": "Sea Jelly",
+                    "rarity_per_mille": 0.6
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Malachite",
+                    "rarity_per_mille": 1.2
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:07.818477Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/timelessbook-29187.lottie.json",
+            "emoji_id": "750766425144033312",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-04-27T21:52:39.383121Z",
+            "floor_price": "2.61",
+            "unlocks_at": "2026-04-14T11:39:46Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019e2818-ec28-77d9-a8a1-edd2d8fbeda4",
+            "bundle_id": null,
+            "tg_id": "FaithAmulet-128368",
+            "collection_id": "1583eda9-f5fe-4265-833b-ab973e30afc8",
+            "external_collection_number": 128368,
+            "name": "Faith Amulet",
+            "photo_url": "https://nft.fragment.com/gift/faithamulet-128368.large.jpg",
+            "price": "14.05",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Celestial Gem",
+                    "rarity_per_mille": 2.5
+                },
+                {
+                    "type": "symbol",
+                    "value": "Pomegranate",
+                    "rarity_per_mille": 1.1
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Old Gold",
+                    "rarity_per_mille": 1.2
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:07.817238Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/faithamulet-128368.lottie.json",
+            "emoji_id": "1901206392136531988",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-05-14T20:06:22.574028Z",
+            "floor_price": "2.96",
+            "unlocks_at": "2026-01-23T12:11:42Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "41d32b2e-0430-4a9f-96f2-b03741ef7992",
+            "bundle_id": null,
+            "tg_id": "IceCream-204678",
+            "collection_id": "a4434643-6add-47e1-a68b-8c15b1807b75",
+            "external_collection_number": 204678,
+            "name": "Ice Cream",
+            "photo_url": "https://nft.fragment.com/gift/icecream-204678.medium.jpg",
+            "price": "8.01",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Pawpsicle",
+                    "rarity_per_mille": 2
+                },
+                {
+                    "type": "symbol",
+                    "value": "Kite",
+                    "rarity_per_mille": 0.2
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Purple",
+                    "rarity_per_mille": 1.2
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:07.815388Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/icecream-204678.lottie.json",
             "emoji_id": "2562980648230846502",
             "has_animation": true,
             "import_source": "user_bot",
-            "imported_at": "2026-03-09T20:27:58.791585Z",
-            "floor_price": "1.96",
+            "imported_at": "2026-05-18T19:24:33.881564Z",
+            "floor_price": "1.91",
             "unlocks_at": "2025-11-12T09:59:48Z",
             "is_crafted": false,
             "lucky_buy_eligible": true,
             "is_owned": false
         },
         {
-            "id": "84971752-97d5-4e50-a532-42d9698e2e39",
+            "id": "019e3c9d-89d1-7996-9e65-7db0813c96d4",
             "bundle_id": null,
-            "tg_id": "StellarRocket-72789",
-            "collection_id": "94acaf8c-de56-401f-b096-1c9304016284",
-            "external_collection_number": 72789,
-            "name": "Stellar Rocket",
-            "photo_url": "https://nft.fragment.com/gift/stellarrocket-72789.medium.jpg",
-            "price": "10.06",
+            "tg_id": "InstantRamen-381866",
+            "collection_id": "6417abaa-3deb-4f4d-b200-356c23401487",
+            "external_collection_number": 381866,
+            "name": "Instant Ramen",
+            "photo_url": "https://nft.fragment.com/gift/instantramen-381866.large.jpg",
+            "price": "7.85",
             "attributes": [
                 {
                     "type": "model",
-                    "value": "Mega Death",
-                    "rarity_per_mille": 1
-                },
-                {
-                    "type": "symbol",
-                    "value": "Birthday Cake",
+                    "value": "Bitcoins",
                     "rarity_per_mille": 0.5
                 },
                 {
-                    "type": "backdrop",
-                    "value": "Chestnut",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.622123Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/stellarrocket-72789.lottie.json",
-            "emoji_id": "5355234570641896373",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2025-12-25T20:02:06.274334Z",
-            "floor_price": "2.23",
-            "unlocks_at": "2025-09-02T11:02:55Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "a0237c17-157d-4801-b2ae-8b65f2af67d4",
-            "bundle_id": null,
-            "tg_id": "IceCream-85473",
-            "collection_id": "a4434643-6add-47e1-a68b-8c15b1807b75",
-            "external_collection_number": 85473,
-            "name": "Ice Cream",
-            "photo_url": "https://nft.fragment.com/gift/icecream-85473.medium.jpg",
-            "price": "6.84",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Beehive",
-                    "rarity_per_mille": 2.5
-                },
-                {
                     "type": "symbol",
-                    "value": "Aztec Totem",
-                    "rarity_per_mille": 0.7
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Platinum",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.573391Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/icecream-85473.lottie.json",
-            "emoji_id": "2562980648230846502",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-03-08T05:04:26.356665Z",
-            "floor_price": "1.96",
-            "unlocks_at": "2026-01-28T17:14:28Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019c600a-0814-79ec-a525-fa8955b72b37",
-            "bundle_id": null,
-            "tg_id": "VictoryMedal-56915",
-            "collection_id": "782f60ca-5779-4228-9673-4ab7ad4b38f4",
-            "external_collection_number": 56915,
-            "name": "Victory Medal",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Victory%20Medal/Princess_Onyx%20Black_UFO.png",
-            "price": "27.88",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Princess",
-                    "rarity_per_mille": 2.5
-                },
-                {
-                    "type": "symbol",
-                    "value": "UFO",
-                    "rarity_per_mille": 0.7
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Onyx Black",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.548694Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/victorymedal-56915.lottie.json",
-            "emoji_id": "750766425144033311",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-02-15T06:43:16.255376Z",
-            "floor_price": "2.74",
-            "unlocks_at": "2026-02-15T06:43:15Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "62540f36-4392-4bc2-9bf4-db9dc1d66b3c",
-            "bundle_id": null,
-            "tg_id": "MousseCake-138010",
-            "collection_id": "5f6892b6-8fd6-4e90-b666-9ebfa5414ae5",
-            "external_collection_number": 138010,
-            "name": "Mousse Cake",
-            "photo_url": "https://nft.fragment.com/gift/moussecake-138010.medium.jpg",
-            "price": "14.93",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Angel Cake",
-                    "rarity_per_mille": 2
-                },
-                {
-                    "type": "symbol",
-                    "value": "Origami",
-                    "rarity_per_mille": 0.2
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Orange",
-                    "rarity_per_mille": 1.2
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.497872Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/moussecake-138010.lottie.json",
-            "emoji_id": "750766425144033308",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2025-12-22T06:09:55.483465Z",
-            "floor_price": "2.54",
-            "unlocks_at": "2025-12-21T20:36:09Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019c62be-f6c6-76fb-9f62-841db11c080e",
-            "bundle_id": null,
-            "tg_id": "FaithAmulet-48217",
-            "collection_id": "1583eda9-f5fe-4265-833b-ab973e30afc8",
-            "external_collection_number": 48217,
-            "name": "Faith Amulet",
-            "photo_url": "https://nft.fragment.com/gift/faithamulet-48217.large.jpg",
-            "price": "8.85",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Velvet Dusk",
-                    "rarity_per_mille": 2.5
-                },
-                {
-                    "type": "symbol",
-                    "value": "Cactus",
-                    "rarity_per_mille": 0.7
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Gunmetal",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.49689Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/faithamulet-48217.lottie.json",
-            "emoji_id": "1901206392136531988",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-02-15T19:20:08.318729Z",
-            "floor_price": "2.99",
-            "unlocks_at": "2025-12-17T01:07:21Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019d06dd-d7e8-703b-8232-4231209ceffe",
-            "bundle_id": null,
-            "tg_id": "MoodPack-74957",
-            "collection_id": "6a36ffb9-cb5f-43bc-af63-97ec22390bc4",
-            "external_collection_number": 74957,
-            "name": "Mood Pack",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Mood%20Pack/Paladin_Orange_Pomegranate.png",
-            "price": "8.82",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Paladin",
-                    "rarity_per_mille": 2.5
-                },
-                {
-                    "type": "symbol",
-                    "value": "Pomegranate",
-                    "rarity_per_mille": 0.7
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Orange",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.495869Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/moodpack-74957.lottie.json",
-            "emoji_id": "669159254791290924",
-            "import_source": "user_bot",
-            "imported_at": "2026-03-19T16:11:35.395186Z",
-            "floor_price": "2.53",
-            "unlocks_at": "2026-03-19T16:11:33Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "7118fc8e-7720-46ce-934d-5248845a6c07",
-            "bundle_id": null,
-            "tg_id": "InstantRamen-261064",
-            "collection_id": "6417abaa-3deb-4f4d-b200-356c23401487",
-            "external_collection_number": 261064,
-            "name": "Instant Ramen",
-            "photo_url": "https://nft.fragment.com/gift/instantramen-261064.medium.jpg",
-            "price": "11.85",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Khinkali",
-                    "rarity_per_mille": 3
-                },
-                {
-                    "type": "symbol",
-                    "value": "Bamboo",
+                    "value": "Hedgehog",
                     "rarity_per_mille": 0.4
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Gunmetal",
-                    "rarity_per_mille": 1.2
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.494496Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/instantramen-261064.lottie.json",
-            "emoji_id": "669159254791290921",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-03-08T19:36:39.632097Z",
-            "floor_price": "1.85",
-            "unlocks_at": "2026-02-18T22:31:30Z",
-            "ton_address": "EQCO1OQZz3yPuHu1IjiFbb3UXgN1kJ8VfVcHhUya5DxCW6xF",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019c4e1a-3818-76c7-bdd6-8fe490f76360",
-            "bundle_id": null,
-            "tg_id": "VictoryMedal-48140",
-            "collection_id": "782f60ca-5779-4228-9673-4ab7ad4b38f4",
-            "external_collection_number": 48140,
-            "name": "Victory Medal",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Victory%20Medal/Bronze_Rosewood_Clover.png",
-            "price": "6.91",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Bronze",
-                    "rarity_per_mille": 3
-                },
-                {
-                    "type": "symbol",
-                    "value": "Clover",
-                    "rarity_per_mille": 0.7
                 },
                 {
                     "type": "backdrop",
@@ -884,384 +415,193 @@
                     "rarity_per_mille": 1.5
                 }
             ],
-            "listed_at": "2026-05-17T12:39:12.425027Z",
+            "listed_at": "2026-05-20T23:23:07.73417Z",
             "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/victorymedal-48140.lottie.json",
-            "emoji_id": "750766425144033311",
+            "animation_url": "https://nft.fragment.com/gift/instantramen-381866.lottie.json",
+            "emoji_id": "669159254791290921",
             "has_animation": true,
             "import_source": "user_bot",
-            "imported_at": "2026-02-11T19:07:47.240483Z",
-            "floor_price": "2.74",
-            "unlocks_at": "2026-02-11T19:07:45Z",
+            "imported_at": "2026-05-18T19:43:38.513752Z",
+            "floor_price": "1.87",
+            "unlocks_at": "2026-05-17T20:19:20Z",
             "is_crafted": false,
             "lucky_buy_eligible": true,
             "is_owned": false
         },
         {
-            "id": "019d10fe-c00a-7150-a903-75a79252cffa",
+            "id": "019c5c5e-69da-7ae3-81b7-4e5945e87a93",
             "bundle_id": null,
-            "tg_id": "PoolFloat-141552",
-            "collection_id": "ef4acdf4-60c9-47b9-8501-59e2229074a4",
-            "external_collection_number": 141552,
-            "name": "Pool Float",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Pool%20Float/Pelican%20Decoy_Marine%20Blue_Breeze.png",
-            "price": "6.82",
+            "tg_id": "VictoryMedal-11432",
+            "collection_id": "782f60ca-5779-4228-9673-4ab7ad4b38f4",
+            "external_collection_number": 11432,
+            "name": "Victory Medal",
+            "photo_url": "https://storage.googleapis.com/generate_gifts/Victory%20Medal/Racing%20Champ_Caramel_Magic%20Vial.png",
+            "price": "15.04",
             "attributes": [
                 {
                     "type": "model",
-                    "value": "Pelican Decoy",
-                    "rarity_per_mille": 2.5
-                },
-                {
-                    "type": "symbol",
-                    "value": "Breeze",
-                    "rarity_per_mille": 0.5
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Marine Blue",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.424039Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/poolfloat-141552.lottie.json",
-            "emoji_id": "1391391008142393378",
-            "import_source": "user_bot",
-            "imported_at": "2026-03-21T15:23:44.167548Z",
-            "floor_price": "2.28",
-            "unlocks_at": "2026-03-21T15:23:41Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "65ea6c10-857d-4989-82c0-9d3bdfbeaf56",
-            "bundle_id": null,
-            "tg_id": "IceCream-87686",
-            "collection_id": "a4434643-6add-47e1-a68b-8c15b1807b75",
-            "external_collection_number": 87686,
-            "name": "Ice Cream",
-            "photo_url": "https://nft.fragment.com/gift/icecream-87686.medium.jpg",
-            "price": "6.95",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Brain Freeze",
-                    "rarity_per_mille": 1.5
-                },
-                {
-                    "type": "symbol",
-                    "value": "Dragonfly",
-                    "rarity_per_mille": 0.4
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Gunship Green",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.42261Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/icecream-87686.lottie.json",
-            "emoji_id": "2562980648230846502",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2025-11-06T10:40:31.929023Z",
-            "floor_price": "1.96",
-            "unlocks_at": "2025-11-01T09:51:15Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019d0f1d-4f78-7890-bff3-a7b5104e818e",
-            "bundle_id": null,
-            "tg_id": "PoolFloat-154896",
-            "collection_id": "ef4acdf4-60c9-47b9-8501-59e2229074a4",
-            "external_collection_number": 154896,
-            "name": "Pool Float",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Pool%20Float/Air%20Bunny_English%20Violet_Dragonfly.png",
-            "price": "6.84",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Air Bunny",
+                    "value": "Racing Champ",
                     "rarity_per_mille": 3
                 },
                 {
                     "type": "symbol",
-                    "value": "Dragonfly",
-                    "rarity_per_mille": 0.4
-                },
-                {
-                    "type": "backdrop",
-                    "value": "English Violet",
-                    "rarity_per_mille": 1.2
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.352583Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/poolfloat-154896.lottie.json",
-            "emoji_id": "1391391008142393378",
-            "import_source": "user_bot",
-            "imported_at": "2026-03-21T06:37:52.509273Z",
-            "floor_price": "2.28",
-            "unlocks_at": "2026-03-21T06:37:51Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "373197b9-5380-442e-bdf9-3956408d4ed0",
-            "bundle_id": null,
-            "tg_id": "HappyBrownie-121314",
-            "collection_id": "27ff8a55-f9b7-435d-af08-1063fdf1e026",
-            "external_collection_number": 121314,
-            "name": "Happy Brownie",
-            "photo_url": "https://nft.fragment.com/gift/happybrownie-121314.medium.jpg",
-            "price": "9.82",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Wasteroid",
-                    "rarity_per_mille": 2
-                },
-                {
-                    "type": "symbol",
-                    "value": "Oak Leaf",
-                    "rarity_per_mille": 0.5
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Caramel",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.351339Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/happybrownie-121314.lottie.json",
-            "emoji_id": "328260442013040673",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-03-16T21:27:11.460793Z",
-            "floor_price": "2.1",
-            "unlocks_at": "2026-03-13T15:30:49Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019d3095-056d-7c9c-ba68-175920e58190",
-            "bundle_id": null,
-            "tg_id": "TimelessBook-14849",
-            "collection_id": "913df7f3-c9da-4835-965a-f539838673fa",
-            "external_collection_number": 14849,
-            "name": "Timeless Book",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Timeless%20Book/Metro_Raspberry_Lion%20of%20Babylon.png",
-            "price": "19.75",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Metro",
-                    "rarity_per_mille": 1.5
-                },
-                {
-                    "type": "symbol",
-                    "value": "Lion of Babylon",
-                    "rarity_per_mille": 0.4
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Raspberry",
-                    "rarity_per_mille": 1.2
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.193697Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/timelessbook-14849.lottie.json",
-            "emoji_id": "750766425144033312",
-            "import_source": "user_bot",
-            "imported_at": "2026-03-27T18:36:06.046056Z",
-            "floor_price": "2.77",
-            "unlocks_at": "2026-03-27T18:36:04Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019cef45-5a7f-7f3c-a690-d5d4a9c9ba42",
-            "bundle_id": null,
-            "tg_id": "MousseCake-163864",
-            "collection_id": "5f6892b6-8fd6-4e90-b666-9ebfa5414ae5",
-            "external_collection_number": 163864,
-            "name": "Mousse Cake",
-            "photo_url": "https://nft.fragment.com/gift/moussecake-163864.large.jpg",
-            "price": "9.82",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Gemstones",
-                    "rarity_per_mille": 2
-                },
-                {
-                    "type": "symbol",
-                    "value": "Love Candy",
-                    "rarity_per_mille": 0.6
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Orange",
-                    "rarity_per_mille": 1.2
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.191939Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/moussecake-163864.lottie.json",
-            "emoji_id": "750766425144033308",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-03-15T02:13:45.952743Z",
-            "floor_price": "2.54",
-            "unlocks_at": "2026-03-15T02:13:44Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019d07ec-5b9a-759e-8d2d-96a407d70cfd",
-            "bundle_id": null,
-            "tg_id": "MoodPack-31182",
-            "collection_id": "6a36ffb9-cb5f-43bc-af63-97ec22390bc4",
-            "external_collection_number": 31182,
-            "name": "Mood Pack",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Mood%20Pack/Croc%20Sack_Pine%20Green_Totem%20Bear.png",
-            "price": "7.81",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Croc Sack",
-                    "rarity_per_mille": 3
-                },
-                {
-                    "type": "symbol",
-                    "value": "Totem Bear",
-                    "rarity_per_mille": 0.7
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Pine Green",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.190394Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/moodpack-31182.lottie.json",
-            "emoji_id": "669159254791290924",
-            "import_source": "user_bot",
-            "imported_at": "2026-03-19T21:07:03.85538Z",
-            "floor_price": "2.53",
-            "unlocks_at": "2026-03-19T21:07:02Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019d10e1-97f5-7306-bc55-24a3a444d734",
-            "bundle_id": null,
-            "tg_id": "MoodPack-152420",
-            "collection_id": "6a36ffb9-cb5f-43bc-af63-97ec22390bc4",
-            "external_collection_number": 152420,
-            "name": "Mood Pack",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Mood%20Pack/Infernal%20Goat_Grape_Calm%20Wolf.png",
-            "price": "22.85",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Infernal Goat",
-                    "rarity_per_mille": 1.5
-                },
-                {
-                    "type": "symbol",
-                    "value": "Calm Wolf",
+                    "value": "Magic Vial",
                     "rarity_per_mille": 0.2
                 },
                 {
                     "type": "backdrop",
-                    "value": "Grape",
+                    "value": "Caramel",
                     "rarity_per_mille": 1
                 }
             ],
-            "listed_at": "2026-05-17T12:39:12.189412Z",
+            "listed_at": "2026-05-20T23:23:07.719049Z",
             "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/moodpack-152420.lottie.json",
-            "emoji_id": "669159254791290924",
-            "import_source": "user_bot",
-            "imported_at": "2026-03-21T14:51:53.328394Z",
-            "floor_price": "2.53",
-            "unlocks_at": "2026-03-21T14:51:51Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019c572c-6f7b-798c-a540-a6ef121ac7b7",
-            "bundle_id": null,
-            "tg_id": "VictoryMedal-61805",
-            "collection_id": "782f60ca-5779-4228-9673-4ab7ad4b38f4",
-            "external_collection_number": 61805,
-            "name": "Victory Medal",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Victory%20Medal/Viking_Malachite_Kudu%20Totem.png",
-            "price": "8.89",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Viking",
-                    "rarity_per_mille": 2.5
-                },
-                {
-                    "type": "symbol",
-                    "value": "Kudu Totem",
-                    "rarity_per_mille": 0.7
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Malachite",
-                    "rarity_per_mille": 1
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.188254Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/victorymedal-61805.lottie.json",
+            "animation_url": "https://nft.fragment.com/gift/victorymedal-11432.lottie.json",
             "emoji_id": "750766425144033311",
             "has_animation": true,
             "import_source": "user_bot",
-            "imported_at": "2026-02-13T13:24:16.161662Z",
-            "floor_price": "2.74",
-            "unlocks_at": "2026-02-13T13:24:14Z",
+            "imported_at": "2026-02-14T13:36:57.663772Z",
+            "floor_price": "2.51",
+            "unlocks_at": "2026-02-14T13:36:56Z",
             "is_crafted": false,
             "lucky_buy_eligible": true,
             "is_owned": false
         },
         {
-            "id": "019d7382-bddd-7044-ab2f-b322f545bb3f",
+            "id": "019d3ad3-dd4b-70fa-a308-99eae4be4ce4",
             "bundle_id": null,
-            "tg_id": "ViceCream-136984",
-            "collection_id": "b0fcb92a-0e46-46a3-8c60-ce226880632f",
-            "external_collection_number": 136984,
-            "name": "Vice Cream",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Vice%20Cream/Pumpkin%20Spice_Gunmetal_Ouroboros.png",
-            "price": "4.82",
+            "tg_id": "TimelessBook-4833",
+            "collection_id": "913df7f3-c9da-4835-965a-f539838673fa",
+            "external_collection_number": 4833,
+            "name": "Timeless Book",
+            "photo_url": "https://storage.googleapis.com/generate_gifts/Timeless%20Book/Animal%20Friends_Celtic%20Blue_Porrige.png",
+            "price": "12.04",
             "attributes": [
                 {
                     "type": "model",
-                    "value": "Pumpkin Spice",
+                    "value": "Animal Friends",
+                    "rarity_per_mille": 3.5
+                },
+                {
+                    "type": "symbol",
+                    "value": "Porrige",
+                    "rarity_per_mille": 0.6
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Celtic Blue",
+                    "rarity_per_mille": 1.2
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:07.718002Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/timelessbook-4833.lottie.json",
+            "emoji_id": "750766425144033312",
+            "import_source": "user_bot",
+            "imported_at": "2026-03-29T18:20:56.64206Z",
+            "floor_price": "2.61",
+            "unlocks_at": "2026-03-29T18:20:55Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019d11e7-836a-71f3-b4c5-fd0b42632ce8",
+            "bundle_id": null,
+            "tg_id": "FaithAmulet-6863",
+            "collection_id": "1583eda9-f5fe-4265-833b-ab973e30afc8",
+            "external_collection_number": 6863,
+            "name": "Faith Amulet",
+            "photo_url": "https://nft.fragment.com/gift/faithamulet-6863.large.jpg",
+            "price": "9.73",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Mystic Tide",
                     "rarity_per_mille": 3
                 },
                 {
                     "type": "symbol",
-                    "value": "Ouroboros",
+                    "value": "Plum",
                     "rarity_per_mille": 0.4
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Cyberpunk",
+                    "rarity_per_mille": 1
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:07.716775Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/faithamulet-6863.lottie.json",
+            "emoji_id": "1901206392136531988",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-03-21T19:37:58.560566Z",
+            "floor_price": "2.96",
+            "unlocks_at": "2026-01-13T13:00:11Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "0d02ea82-43f5-4139-96c9-40f146e9cc4c",
+            "bundle_id": null,
+            "tg_id": "SpringBasket-122356",
+            "collection_id": "dd0f6245-034c-4d58-9815-a8e939d1def9",
+            "external_collection_number": 122356,
+            "name": "Spring Basket",
+            "photo_url": "https://nft.fragment.com/gift/springbasket-122356.medium.jpg",
+            "price": "11.02",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Red Panda",
+                    "rarity_per_mille": 3
+                },
+                {
+                    "type": "symbol",
+                    "value": "Police Hat",
+                    "rarity_per_mille": 0.2
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Cobalt Blue",
+                    "rarity_per_mille": 1.5
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:07.714452Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/springbasket-122356.lottie.json",
+            "emoji_id": "3473118208624427027",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-01-15T09:21:35.089955Z",
+            "floor_price": "3.03",
+            "unlocks_at": "2025-11-08T18:47:43Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "e7f45342-6e26-4a40-9fac-27f343b1021d",
+            "bundle_id": null,
+            "tg_id": "SpringBasket-4382",
+            "collection_id": "dd0f6245-034c-4d58-9815-a8e939d1def9",
+            "external_collection_number": 4382,
+            "name": "Spring Basket",
+            "photo_url": "https://nft.fragment.com/gift/springbasket-4382.medium.jpg",
+            "price": "12.05",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Chihuahua",
+                    "rarity_per_mille": 3
+                },
+                {
+                    "type": "symbol",
+                    "value": "Sakura Flower",
+                    "rarity_per_mille": 0.7
                 },
                 {
                     "type": "backdrop",
@@ -1269,452 +609,54 @@
                     "rarity_per_mille": 1.2
                 }
             ],
-            "listed_at": "2026-05-17T12:39:12.186867Z",
+            "listed_at": "2026-05-20T23:23:07.630045Z",
             "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/vicecream-136984.lottie.json",
-            "emoji_id": "328260442013040674",
-            "import_source": "user_bot",
-            "imported_at": "2026-04-09T18:30:41.409861Z",
-            "floor_price": "1.82",
-            "unlocks_at": "2026-04-09T18:30:40Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019cf2c5-6c1b-7419-a937-35a2b9090503",
-            "bundle_id": null,
-            "tg_id": "VictoryMedal-79859",
-            "collection_id": "782f60ca-5779-4228-9673-4ab7ad4b38f4",
-            "external_collection_number": 79859,
-            "name": "Victory Medal",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Victory%20Medal/Golden%20Puck_Platinum_Eggplant.png",
-            "price": "7.84",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Golden Puck",
-                    "rarity_per_mille": 3
-                },
-                {
-                    "type": "symbol",
-                    "value": "Eggplant",
-                    "rarity_per_mille": 0.7
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Platinum",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.184845Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/victorymedal-79859.lottie.json",
-            "emoji_id": "750766425144033311",
+            "animation_url": "https://nft.fragment.com/gift/springbasket-4382.lottie.json",
+            "emoji_id": "3473118208624427027",
             "has_animation": true,
             "import_source": "user_bot",
-            "imported_at": "2026-03-15T18:32:30.684582Z",
-            "floor_price": "2.74",
-            "unlocks_at": "2026-02-24T17:18:30Z",
+            "imported_at": "2026-01-03T21:34:32.114629Z",
+            "floor_price": "3.03",
+            "unlocks_at": "2025-11-24T16:23:14Z",
             "is_crafted": false,
             "lucky_buy_eligible": true,
             "is_owned": false
         },
         {
-            "id": "019ccc36-f72f-76a3-a988-ce0cad5298f9",
+            "id": "019d4f42-c218-7aed-b41f-f232a534f562",
             "bundle_id": null,
-            "tg_id": "DeskCalendar-27335",
-            "collection_id": "ae8f48a9-e090-44f2-9c61-5928702ab171",
-            "external_collection_number": 27335,
-            "name": "Desk Calendar",
-            "photo_url": "https://nft.fragment.com/gift/deskcalendar-27335.large.jpg",
-            "price": "40.02",
+            "tg_id": "PoolFloat-55854",
+            "collection_id": "ef4acdf4-60c9-47b9-8501-59e2229074a4",
+            "external_collection_number": 55854,
+            "name": "Pool Float",
+            "photo_url": "https://storage.googleapis.com/generate_gifts/Pool%20Float/Homer_Midnight%20Blue_Arabian%20Horse.png",
+            "price": "8.05",
             "attributes": [
                 {
                     "type": "model",
-                    "value": "Zeus",
-                    "rarity_per_mille": 0
+                    "value": "Homer",
+                    "rarity_per_mille": 1.5
                 },
                 {
                     "type": "symbol",
-                    "value": "Boat",
-                    "rarity_per_mille": 0.3
+                    "value": "Arabian Horse",
+                    "rarity_per_mille": 0.5
                 },
                 {
                     "type": "backdrop",
                     "value": "Midnight Blue",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.141245Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/deskcalendar-27335.lottie.json",
-            "emoji_id": "7173162320003138",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-04-14T21:18:12.74562Z",
-            "floor_price": "3.78",
-            "unlocks_at": "2026-04-14T21:18:11Z",
-            "is_crafted": true,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019d40ab-cf29-7304-a263-7581b0e12fb9",
-            "bundle_id": null,
-            "tg_id": "VictoryMedal-63837",
-            "collection_id": "782f60ca-5779-4228-9673-4ab7ad4b38f4",
-            "external_collection_number": 63837,
-            "name": "Victory Medal",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Victory%20Medal/Ton%20Titan_Azure%20Blue_Porrige.png",
-            "price": "20.05",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Ton Titan",
-                    "rarity_per_mille": 2
-                },
-                {
-                    "type": "symbol",
-                    "value": "Porrige",
-                    "rarity_per_mille": 0.2
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Azure Blue",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.138197Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/victorymedal-63837.lottie.json",
-            "emoji_id": "750766425144033311",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-03-30T21:34:54.902654Z",
-            "floor_price": "2.74",
-            "unlocks_at": "2026-02-16T17:03:46Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019da666-f89b-7b80-8ffc-d2d1152c005a",
-            "bundle_id": null,
-            "tg_id": "ViceCream-123844",
-            "collection_id": "b0fcb92a-0e46-46a3-8c60-ce226880632f",
-            "external_collection_number": 123844,
-            "name": "Vice Cream",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Vice%20Cream/Champion%20Cup_Pure%20Gold_Spanner.png",
-            "price": "14.83",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Champion Cup",
-                    "rarity_per_mille": 2
-                },
-                {
-                    "type": "symbol",
-                    "value": "Spanner",
-                    "rarity_per_mille": 0.3
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Pure Gold",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.13559Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/vicecream-123844.lottie.json",
-            "emoji_id": "328260442013040674",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-04-19T15:40:59.487164Z",
-            "floor_price": "1.82",
-            "unlocks_at": "2026-04-19T15:40:58Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019d2333-414a-7da4-90b2-c0d536c27660",
-            "bundle_id": null,
-            "tg_id": "PoolFloat-165533",
-            "collection_id": "ef4acdf4-60c9-47b9-8501-59e2229074a4",
-            "external_collection_number": 165533,
-            "name": "Pool Float",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Pool%20Float/Safari_Amber_Ice%20Cream.png",
-            "price": "11.02",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Safari",
-                    "rarity_per_mille": 1.5
-                },
-                {
-                    "type": "symbol",
-                    "value": "Ice Cream",
-                    "rarity_per_mille": 0.5
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Amber",
-                    "rarity_per_mille": 1.2
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.13283Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/poolfloat-165533.lottie.json",
-            "emoji_id": "1391391008142393378",
-            "import_source": "user_bot",
-            "imported_at": "2026-03-25T04:14:15.013745Z",
-            "floor_price": "2.28",
-            "unlocks_at": "2026-03-25T04:14:13Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019d09c6-3828-7949-abce-0db600e66bf5",
-            "bundle_id": null,
-            "tg_id": "PoolFloat-154064",
-            "collection_id": "ef4acdf4-60c9-47b9-8501-59e2229074a4",
-            "external_collection_number": 154064,
-            "name": "Pool Float",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Pool%20Float/Toucan_French%20Blue_Skull.png",
-            "price": "7.03",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Toucan",
-                    "rarity_per_mille": 2.5
-                },
-                {
-                    "type": "symbol",
-                    "value": "Skull",
-                    "rarity_per_mille": 0.5
-                },
-                {
-                    "type": "backdrop",
-                    "value": "French Blue",
                     "rarity_per_mille": 1
                 }
             ],
-            "listed_at": "2026-05-17T12:39:12.131213Z",
+            "listed_at": "2026-05-20T23:23:07.547447Z",
             "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/poolfloat-154064.lottie.json",
+            "animation_url": "https://nft.fragment.com/gift/poolfloat-55854.lottie.json",
             "emoji_id": "1391391008142393378",
             "import_source": "user_bot",
-            "imported_at": "2026-03-20T05:44:38.861918Z",
-            "floor_price": "2.28",
-            "unlocks_at": "2026-03-20T05:44:36Z",
+            "imported_at": "2026-04-02T17:34:28.839019Z",
+            "floor_price": "2.04",
+            "unlocks_at": "2026-04-02T17:34:26Z",
             "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "4909bca6-70bc-473d-a456-3bca35666c0e",
-            "bundle_id": null,
-            "tg_id": "InputKey-34019",
-            "collection_id": "46c95fc3-b4a5-492c-9bb9-974c4c27d858",
-            "external_collection_number": 34019,
-            "name": "Input Key",
-            "photo_url": "https://nft.fragment.com/gift/inputkey-34019.medium.jpg",
-            "price": "17.06",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Raido Rune",
-                    "rarity_per_mille": 2
-                },
-                {
-                    "type": "symbol",
-                    "value": "Party Hat",
-                    "rarity_per_mille": 0.4
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Lavender",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.12985Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/inputkey-34019.lottie.json",
-            "emoji_id": "5289596857494830992",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2025-12-29T14:26:09.830341Z",
-            "floor_price": "2.86",
-            "unlocks_at": "2025-09-22T17:30:20Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019c99da-7f5a-74bd-bda2-091255df8ed3",
-            "bundle_id": null,
-            "tg_id": "CloverPin-156908",
-            "collection_id": "80c24f0d-94cb-4169-ae8c-c10620ae04bb",
-            "external_collection_number": 156908,
-            "name": "Clover Pin",
-            "photo_url": "https://nft.fragment.com/gift/cloverpin-156908.large.jpg",
-            "price": "7.87",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Cheese",
-                    "rarity_per_mille": 1.5
-                },
-                {
-                    "type": "symbol",
-                    "value": "Gua Pi Mao",
-                    "rarity_per_mille": 0.5
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Old Gold",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.127325Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/cloverpin-156908.lottie.json",
-            "emoji_id": "7173162320003118",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-02-26T12:09:19.592595Z",
-            "floor_price": "2.61",
-            "unlocks_at": null,
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019d67eb-9d43-76e2-8186-d00faab64189",
-            "bundle_id": null,
-            "tg_id": "VictoryMedal-52819",
-            "collection_id": "782f60ca-5779-4228-9673-4ab7ad4b38f4",
-            "external_collection_number": 52819,
-            "name": "Victory Medal",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Victory%20Medal/Pathfinder_French%20Blue_Flamingo.png",
-            "price": "9.05",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Pathfinder",
-                    "rarity_per_mille": 3
-                },
-                {
-                    "type": "symbol",
-                    "value": "Flamingo",
-                    "rarity_per_mille": 0.2
-                },
-                {
-                    "type": "backdrop",
-                    "value": "French Blue",
-                    "rarity_per_mille": 1.2
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.126068Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/victorymedal-52819.lottie.json",
-            "emoji_id": "750766425144033311",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-04-07T12:29:47.803775Z",
-            "floor_price": "2.74",
-            "unlocks_at": "2026-02-16T07:35:00Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "019d50d4-1d6d-7410-9959-0f482b5a268f",
-            "bundle_id": null,
-            "tg_id": "UFCStrike-17689",
-            "collection_id": "1211530b-fee3-4256-80a6-fa012bd413da",
-            "external_collection_number": 17689,
-            "name": "UFC Strike",
-            "photo_url": "https://nft.fragment.com/gift/ufcstrike-17689.large.jpg",
-            "price": "21.03",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Train Time",
-                    "rarity_per_mille": 3
-                },
-                {
-                    "type": "symbol",
-                    "value": "Fight Glove",
-                    "rarity_per_mille": 1.2
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Midnight Blue",
-                    "rarity_per_mille": 1.2
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.124996Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/ufcstrike-17689.lottie.json",
-            "emoji_id": "7173162320003132",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2026-04-03T00:52:51.818688Z",
-            "floor_price": "9.5",
-            "unlocks_at": "2025-12-28T19:26:52Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "1b2be69a-3396-48ff-8cfa-54b9dbb5ec1d",
-            "bundle_id": null,
-            "tg_id": "4216629",
-            "collection_id": "80c24f0d-94cb-4169-ae8c-c10620ae04bb",
-            "external_collection_number": 82429,
-            "name": "Clover Pin",
-            "photo_url": "https://nft.fragment.com/gift/cloverpin-82429.medium.jpg",
-            "price": "12.03",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Tama Gadget",
-                    "rarity_per_mille": 0.5
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Midnight Blue",
-                    "rarity_per_mille": 1.5
-                },
-                {
-                    "type": "symbol",
-                    "value": "Sword",
-                    "rarity_per_mille": 0.2
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.123979Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/cloverpin-82429.lottie.json",
-            "emoji_id": "5231272859472524045",
-            "has_animation": true,
-            "import_source": "bot",
-            "imported_at": "2025-09-27T15:54:31.403186Z",
-            "floor_price": "2.61",
-            "unlocks_at": "2025-09-27T14:54:05Z",
-            "is_crafted": false,
-            "premarket_data": {
-                "id": "1b2be69a-3396-48ff-8cfa-54b9dbb5ec1d",
-                "nft_id": "1b2be69a-3396-48ff-8cfa-54b9dbb5ec1d",
-                "seller_id": 30692815,
-                "deposit_percent": 0.5,
-                "status": "deleted",
-                "unlock_date": "2025-09-29T03:25:43.964074Z",
-                "created_at": "2025-09-08T03:25:43.964074Z",
-                "updated_at": "2025-09-27T13:43:56.396529Z"
-            },
             "lucky_buy_eligible": true,
             "is_owned": false
         },
@@ -1726,7 +668,7 @@
             "external_collection_number": 76804,
             "name": "Chill Flame",
             "photo_url": "https://storage.googleapis.com/generate_gifts/Chill%20Flame/Ionic%20Column_Steel%20Grey_Bunny%20Ears.png",
-            "price": "6.04",
+            "price": "6.02",
             "attributes": [
                 {
                     "type": "model",
@@ -1744,113 +686,1254 @@
                     "rarity_per_mille": 1.5
                 }
             ],
-            "listed_at": "2026-05-17T12:39:12.122877Z",
+            "listed_at": "2026-05-20T23:23:07.546533Z",
             "status": "listed",
             "animation_url": "https://nft.fragment.com/gift/chillflame-76804.lottie.json",
             "emoji_id": "7173162320003137",
             "import_source": "user_bot",
             "imported_at": "2026-03-25T10:08:49.40931Z",
-            "floor_price": "1.8",
+            "floor_price": "1.76",
             "unlocks_at": "2026-03-25T10:08:46Z",
             "is_crafted": false,
             "lucky_buy_eligible": true,
             "is_owned": false
         },
         {
-            "id": "019d620a-36df-7d57-aada-868c4f72a264",
+            "id": "019da5de-0cfd-76d9-a7b7-0e957907b4bb",
             "bundle_id": null,
-            "tg_id": "SpringBasket-11580",
-            "collection_id": "dd0f6245-034c-4d58-9815-a8e939d1def9",
-            "external_collection_number": 11580,
-            "name": "Spring Basket",
-            "photo_url": "https://nft.fragment.com/gift/springbasket-11580.large.jpg",
-            "price": "16.04",
+            "tg_id": "CloverPin-148588",
+            "collection_id": "80c24f0d-94cb-4169-ae8c-c10620ae04bb",
+            "external_collection_number": 148588,
+            "name": "Clover Pin",
+            "photo_url": "https://nft.fragment.com/gift/cloverpin-148588.large.jpg",
+            "price": "12.03",
             "attributes": [
                 {
                     "type": "model",
-                    "value": "Magician",
+                    "value": "Joystick",
                     "rarity_per_mille": 2
                 },
                 {
                     "type": "symbol",
-                    "value": "Sea Dragon",
+                    "value": "Smartphone",
+                    "rarity_per_mille": 0.5
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Onyx Black",
+                    "rarity_per_mille": 1.5
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:07.545176Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/cloverpin-148588.lottie.json",
+            "emoji_id": "7173162320003118",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-04-19T13:11:26.266646Z",
+            "floor_price": "2.82",
+            "unlocks_at": "2025-09-29T02:42:50Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019d6203-4187-7d9f-afae-46bac1ad4bac",
+            "bundle_id": null,
+            "tg_id": "SpringBasket-69291",
+            "collection_id": "dd0f6245-034c-4d58-9815-a8e939d1def9",
+            "external_collection_number": 69291,
+            "name": "Spring Basket",
+            "photo_url": "https://nft.fragment.com/gift/springbasket-69291.large.jpg",
+            "price": "12.03",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Marmot",
+                    "rarity_per_mille": 2.5
+                },
+                {
+                    "type": "symbol",
+                    "value": "Ladybug",
+                    "rarity_per_mille": 0.5
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Fandango",
+                    "rarity_per_mille": 1
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:07.543474Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/springbasket-69291.lottie.json",
+            "emoji_id": "3473118208624427027",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-04-06T08:57:53.950132Z",
+            "floor_price": "3.03",
+            "unlocks_at": "2025-11-01T12:07:56Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019c4c9d-d9a1-7ec6-b64a-5a6884b788d6",
+            "bundle_id": null,
+            "tg_id": "VictoryMedal-54908",
+            "collection_id": "782f60ca-5779-4228-9673-4ab7ad4b38f4",
+            "external_collection_number": 54908,
+            "name": "Victory Medal",
+            "photo_url": "https://storage.googleapis.com/generate_gifts/Victory%20Medal/Dunk%20Master_Old%20Gold_Bobby%20Helmet.png",
+            "price": "10.06",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Dunk Master",
+                    "rarity_per_mille": 3
+                },
+                {
+                    "type": "symbol",
+                    "value": "Bobby Helmet",
                     "rarity_per_mille": 0.7
                 },
                 {
                     "type": "backdrop",
-                    "value": "Electric Purple",
+                    "value": "Old Gold",
                     "rarity_per_mille": 1.5
                 }
             ],
-            "listed_at": "2026-05-17T12:39:12.121429Z",
+            "listed_at": "2026-05-20T23:23:07.466868Z",
             "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/springbasket-11580.lottie.json",
-            "emoji_id": "3473118208624427027",
+            "animation_url": "https://nft.fragment.com/gift/victorymedal-54908.lottie.json",
+            "emoji_id": "750766425144033311",
             "has_animation": true,
             "import_source": "user_bot",
-            "imported_at": "2026-04-06T09:05:29.914036Z",
-            "floor_price": "3.19",
-            "unlocks_at": "2025-11-01T07:52:31Z",
+            "imported_at": "2026-02-11T12:12:19.43862Z",
+            "floor_price": "2.51",
+            "unlocks_at": "2026-02-11T12:12:18Z",
             "is_crafted": false,
             "lucky_buy_eligible": true,
             "is_owned": false
         },
         {
-            "id": "019d2459-71c7-7883-b83b-48f0f9fc319b",
+            "id": "44316787-3114-42e9-aa0d-e0380570f703",
             "bundle_id": null,
-            "tg_id": "ChillFlame-63945",
-            "collection_id": "e6c83d75-726c-4165-8547-4d7766e3f210",
-            "external_collection_number": 63945,
-            "name": "Chill Flame",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Chill%20Flame/Eternal%20Flame_Pine%20Green_Viper.png",
-            "price": "2.98",
+            "tg_id": "SwagBag-153411",
+            "collection_id": "66850ebe-2531-4e25-813a-3f3294818f7d",
+            "external_collection_number": 153411,
+            "name": "Swag Bag",
+            "photo_url": "https://nft.fragment.com/gift/swagbag-153411.medium.jpg",
+            "price": "18",
             "attributes": [
                 {
                     "type": "model",
-                    "value": "Eternal Flame",
-                    "rarity_per_mille": 3
+                    "value": "Darkness",
+                    "rarity_per_mille": 1
                 },
                 {
                     "type": "symbol",
-                    "value": "Viper",
+                    "value": "Propeller Cap",
                     "rarity_per_mille": 0.4
                 },
                 {
                     "type": "backdrop",
-                    "value": "Pine Green",
-                    "rarity_per_mille": 1.5
+                    "value": "Midnight Blue",
+                    "rarity_per_mille": 1
                 }
             ],
-            "listed_at": "2026-05-17T12:39:12.088981Z",
+            "listed_at": "2026-05-20T23:23:07.378709Z",
             "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/chillflame-63945.lottie.json",
-            "emoji_id": "7173162320003137",
+            "animation_url": "https://nft.fragment.com/gift/swagbag-153411.lottie.json",
+            "emoji_id": "5415584431723276319",
+            "has_animation": true,
             "import_source": "user_bot",
-            "imported_at": "2026-03-25T09:35:35.088183Z",
-            "floor_price": "1.8",
-            "unlocks_at": "2026-03-25T09:35:31Z",
+            "imported_at": "2026-02-14T19:44:21.63216Z",
+            "floor_price": "3.06",
+            "unlocks_at": "2025-07-31T15:19:14Z",
             "is_crafted": false,
             "lucky_buy_eligible": true,
             "is_owned": false
         },
         {
-            "id": "019d6e43-b377-7087-8c4e-c500aefd71e2",
+            "id": "10c914ca-4611-44f1-bcdf-6a2e64fea7e6",
             "bundle_id": null,
-            "tg_id": "PoolFloat-52812",
-            "collection_id": "ef4acdf4-60c9-47b9-8501-59e2229074a4",
-            "external_collection_number": 52812,
-            "name": "Pool Float",
-            "photo_url": "https://storage.googleapis.com/generate_gifts/Pool%20Float/Dark%20Swan_Platinum_Sun.png",
-            "price": "8.03",
+            "tg_id": "FreshSocks-27288",
+            "collection_id": "5dcccebc-1977-47db-8e3e-6f92bb83c15d",
+            "external_collection_number": 27288,
+            "name": "Fresh Socks",
+            "photo_url": "https://nft.fragment.com/gift/freshsocks-27288.medium.jpg",
+            "price": "8.2",
             "attributes": [
                 {
                     "type": "model",
-                    "value": "Dark Swan",
+                    "value": "Spider Web",
+                    "rarity_per_mille": 2.5
+                },
+                {
+                    "type": "symbol",
+                    "value": "Banana",
+                    "rarity_per_mille": 0.2
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Midnight Blue",
+                    "rarity_per_mille": 1.5
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:07.150527Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/freshsocks-27288.lottie.json",
+            "emoji_id": "5406616668858247991",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-03-31T21:26:48.716725Z",
+            "floor_price": "2.12",
+            "unlocks_at": "2025-11-12T09:59:48Z",
+            "ton_address": "EQAu6BnQuvq6xTfRb6-uxBwXFqiSo37AD8YHyzgamP9YLQ3d",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019dbf9b-5efe-778b-a87b-34b500f13465",
+            "bundle_id": null,
+            "tg_id": "ChillFlame-138967",
+            "collection_id": "e6c83d75-726c-4165-8547-4d7766e3f210",
+            "external_collection_number": 138967,
+            "name": "Chill Flame",
+            "photo_url": "https://storage.googleapis.com/generate_gifts/Chill%20Flame/Bubble%20Prism_Grape_Hedgehog.png",
+            "price": "3.89",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Bubble Prism",
+                    "rarity_per_mille": 2
+                },
+                {
+                    "type": "symbol",
+                    "value": "Hedgehog",
+                    "rarity_per_mille": 0.4
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Grape",
+                    "rarity_per_mille": 1.5
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:07.028077Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/chillflame-138967.lottie.json",
+            "emoji_id": "7173162320003137",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-04-24T13:08:43.978485Z",
+            "floor_price": "1.76",
+            "unlocks_at": "2026-04-15T10:22:59Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "fa6fb3f9-549c-4d48-819c-e3e999fbe41e",
+            "bundle_id": null,
+            "tg_id": "InstantRamen-53430",
+            "collection_id": "6417abaa-3deb-4f4d-b200-356c23401487",
+            "external_collection_number": 53430,
+            "name": "Instant Ramen",
+            "photo_url": "https://nft.fragment.com/gift/instantramen-53430.medium.jpg",
+            "price": "2.82",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Mushroom",
                     "rarity_per_mille": 3
                 },
                 {
                     "type": "symbol",
-                    "value": "Sun",
+                    "value": "Bobby Helmet",
+                    "rarity_per_mille": 0.5
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Copper",
+                    "rarity_per_mille": 1.2
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:06.404623Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/instantramen-53430.lottie.json",
+            "emoji_id": "669159254791290921",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-05-05T07:41:28.511713Z",
+            "floor_price": "1.87",
+            "unlocks_at": "2026-04-02T18:19:21Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019e20f7-33e6-719f-b3c6-52fe7523126f",
+            "bundle_id": null,
+            "tg_id": "LunarSnake-130418",
+            "collection_id": "a4b271b4-efa3-4854-b53f-9ae6f3ecac59",
+            "external_collection_number": 130418,
+            "name": "Lunar Snake",
+            "photo_url": "https://nft.fragment.com/gift/lunarsnake-130418.large.jpg",
+            "price": "9.51",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "The Deadliest",
+                    "rarity_per_mille": 0.8
+                },
+                {
+                    "type": "symbol",
+                    "value": "New Year’s Eve",
+                    "rarity_per_mille": 1.8
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Onyx Black",
+                    "rarity_per_mille": 1.5
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:06.329868Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/lunarsnake-130418.lottie.json",
+            "emoji_id": "1471004892762996758",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-05-13T10:52:12.23464Z",
+            "floor_price": "1.8",
+            "unlocks_at": "2025-12-07T11:32:58Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "6d94b2c2-ea71-4423-8387-724f09d3be3a",
+            "bundle_id": null,
+            "tg_id": "508318",
+            "collection_id": "88a37665-6d13-4619-afa9-47de8464adb4",
+            "external_collection_number": 131628,
+            "name": "Easter Egg",
+            "photo_url": "https://nft.fragment.com/gift/easteregg-131628.medium.jpg",
+            "price": "3.77",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Scrambull",
+                    "rarity_per_mille": 2
+                },
+                {
+                    "type": "symbol",
+                    "value": "Leaf",
+                    "rarity_per_mille": 0.4
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Light Olive",
+                    "rarity_per_mille": 1.5
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:06.328122Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/easteregg-131628.lottie.json",
+            "emoji_id": "5197419970195122336",
+            "has_animation": true,
+            "import_source": "bot",
+            "imported_at": "2025-09-03T13:08:59.124328Z",
+            "floor_price": "2.15",
+            "unlocks_at": null,
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "49a3dfef-e642-4a2f-833a-077a64ee5d8c",
+            "bundle_id": null,
+            "tg_id": "LunarSnake-53247",
+            "collection_id": "a4b271b4-efa3-4854-b53f-9ae6f3ecac59",
+            "external_collection_number": 53247,
+            "name": "Lunar Snake",
+            "photo_url": "https://nft.fragment.com/gift/lunarsnake-53247.medium.jpg",
+            "price": "2",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Orange Rocks",
+                    "rarity_per_mille": 1.3
+                },
+                {
+                    "type": "symbol",
+                    "value": "Coin Purse",
+                    "rarity_per_mille": 1.5
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Pine Green",
+                    "rarity_per_mille": 2
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:06.113455Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/lunarsnake-53247.lottie.json",
+            "emoji_id": "5226858861452878434",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-05-18T15:23:48.294273Z",
+            "floor_price": "1.8",
+            "unlocks_at": "2026-01-15T14:19:38Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019bff05-79f2-7640-bf8b-5f8928f148b7",
+            "bundle_id": null,
+            "tg_id": "StellarRocket-39893",
+            "collection_id": "94acaf8c-de56-401f-b096-1c9304016284",
+            "external_collection_number": 39893,
+            "name": "Stellar Rocket",
+            "photo_url": "https://nft.fragment.com/gift/stellarrocket-39893.medium.jpg",
+            "price": "9.03",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Nostromo",
+                    "rarity_per_mille": 1
+                },
+                {
+                    "type": "symbol",
+                    "value": "Birthday Cake",
+                    "rarity_per_mille": 0.5
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Mystic Pearl",
+                    "rarity_per_mille": 1.2
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:06.005372Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/stellarrocket-39893.lottie.json",
+            "emoji_id": "1983652455501529118",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-01-27T10:35:07.768822Z",
+            "floor_price": "2.57",
+            "unlocks_at": "2025-09-02T06:40:27Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "17f083b4-a603-4c03-945e-b36817b4d6c2",
+            "bundle_id": null,
+            "tg_id": "IceCream-7205",
+            "collection_id": "a4434643-6add-47e1-a68b-8c15b1807b75",
+            "external_collection_number": 7205,
+            "name": "Ice Cream",
+            "photo_url": "https://nft.fragment.com/gift/icecream-7205.medium.jpg",
+            "price": "7.99",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Crystal",
+                    "rarity_per_mille": 1
+                },
+                {
+                    "type": "symbol",
+                    "value": "Cash",
+                    "rarity_per_mille": 0.7
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Khaki Green",
+                    "rarity_per_mille": 1.5
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:05.888539Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/icecream-7205.lottie.json",
+            "emoji_id": "2562980648230846502",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-01-15T14:33:41.24002Z",
+            "floor_price": "1.91",
+            "unlocks_at": "2025-11-01T06:15:20Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "623dc9a9-6e86-40fa-8f62-6703bd2c30cd",
+            "bundle_id": null,
+            "tg_id": "SnoopDogg-447685",
+            "collection_id": "5b4448f0-4805-4c4c-8246-972b82f709bc",
+            "external_collection_number": 447685,
+            "name": "Snoop Dogg",
+            "photo_url": "https://nft.fragment.com/gift/snoopdogg-447685.medium.jpg",
+            "price": "12.41",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Chrome",
+                    "rarity_per_mille": 2
+                },
+                {
+                    "type": "symbol",
+                    "value": "Gold",
+                    "rarity_per_mille": 0.4
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Roman Silver",
+                    "rarity_per_mille": 1.2
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:05.875692Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/snoopdogg-447685.lottie.json",
+            "emoji_id": "5413534314983882188",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-05-02T09:08:25.280874Z",
+            "floor_price": "3.14",
+            "unlocks_at": "2026-05-02T08:57:27Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019dbfe6-cf05-7afb-a0e1-a707c7c0fc46",
+            "bundle_id": null,
+            "tg_id": "PrettyPosy-31581",
+            "collection_id": "4b38ccc3-0518-4130-89da-def5abc3a4f4",
+            "external_collection_number": 31581,
+            "name": "Pretty Posy",
+            "photo_url": "https://nft.fragment.com/gift/prettyposy-31581.large.jpg",
+            "price": "11.89",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Fresh Cash",
+                    "rarity_per_mille": 2.5
+                },
+                {
+                    "type": "symbol",
+                    "value": "Like",
+                    "rarity_per_mille": 0.7
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Pistachio",
+                    "rarity_per_mille": 1
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:05.74912Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/prettyposy-31581.lottie.json",
+            "emoji_id": "1391391008142393376",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-04-24T14:31:07.868406Z",
+            "floor_price": "2.58",
+            "unlocks_at": "2026-03-23T23:45:58Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019d1c3d-95b8-7038-83d9-ae3aca092617",
+            "bundle_id": null,
+            "tg_id": "LoveCandle-4241",
+            "collection_id": "128c7b37-36db-4b21-a21b-7d858c8dbc1a",
+            "external_collection_number": 4241,
+            "name": "Love Candle",
+            "photo_url": "https://nft.fragment.com/gift/lovecandle-4241.large.jpg",
+            "price": "12.12",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Gothic Tears",
+                    "rarity_per_mille": 1.5
+                },
+                {
+                    "type": "symbol",
+                    "value": "Lion King",
+                    "rarity_per_mille": 0.4
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Pacific Cyan",
+                    "rarity_per_mille": 2
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:05.359322Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/lovecandle-4241.lottie.json",
+            "emoji_id": "1494180970083909657",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-04-13T09:50:49.774755Z",
+            "floor_price": "5.58",
+            "unlocks_at": "2026-02-07T00:06:50Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "500a8fea-39c5-4286-a2cd-ad635a59158e",
+            "bundle_id": null,
+            "tg_id": "SwagBag-108792",
+            "collection_id": "66850ebe-2531-4e25-813a-3f3294818f7d",
+            "external_collection_number": 108792,
+            "name": "Swag Bag",
+            "photo_url": "https://nft.fragment.com/gift/swagbag-108792.medium.jpg",
+            "price": "15",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Gin & Jewels",
+                    "rarity_per_mille": 0.5
+                },
+                {
+                    "type": "symbol",
+                    "value": "Bow Tie",
+                    "rarity_per_mille": 0.7
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Satin Gold",
+                    "rarity_per_mille": 1
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:04.845726Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/swagbag-108792.lottie.json",
+            "emoji_id": "7173162320003113",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-03-04T15:08:49.98528Z",
+            "floor_price": "3.06",
+            "unlocks_at": "2026-03-04T15:08:48Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "628d77f6-4330-48b4-ac23-b092eaf76ad3",
+            "bundle_id": null,
+            "tg_id": "SnoopCigar-40191",
+            "collection_id": "f0b752de-c997-43dd-859c-f309008b2352",
+            "external_collection_number": 40191,
+            "name": "Snoop Cigar",
+            "photo_url": "https://nft.fragment.com/gift/snoopcigar-40191.medium.jpg",
+            "price": "10.6",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Herbalist",
+                    "rarity_per_mille": 3
+                },
+                {
+                    "type": "symbol",
+                    "value": "Deerstalker",
+                    "rarity_per_mille": 0.7
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Mint Green",
+                    "rarity_per_mille": 1
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:04.589583Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/snoopcigar-40191.lottie.json",
+            "emoji_id": "5409250669221675447",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-05-12T16:45:47.810523Z",
+            "floor_price": "7.6",
+            "unlocks_at": "2026-03-22T05:21:39Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019dc027-4a03-7029-9336-a9f06f7a5550",
+            "bundle_id": null,
+            "tg_id": "HappyBrownie-200555",
+            "collection_id": "27ff8a55-f9b7-435d-af08-1063fdf1e026",
+            "external_collection_number": 200555,
+            "name": "Happy Brownie",
+            "photo_url": "https://nft.fragment.com/gift/happybrownie-200555.large.jpg",
+            "price": "9.99",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Raphael",
+                    "rarity_per_mille": 0.5
+                },
+                {
+                    "type": "symbol",
+                    "value": "Bug",
+                    "rarity_per_mille": 0.5
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Hunter Green",
+                    "rarity_per_mille": 1.5
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:04.468279Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/happybrownie-200555.lottie.json",
+            "emoji_id": "328260442013040673",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-04-24T15:41:33.654581Z",
+            "floor_price": "2.25",
+            "unlocks_at": "2026-04-15T22:51:28Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019dde62-7e3b-7254-bcff-c7927ca91db2",
+            "bundle_id": null,
+            "tg_id": "JingleBells-88912",
+            "collection_id": "1501b9b9-83e0-4d05-a3af-d0e2021c6d5e",
+            "external_collection_number": 88912,
+            "name": "Jingle Bells",
+            "photo_url": "https://nft.fragment.com/gift/jinglebells-88912.large.jpg",
+            "price": "7.11",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Pale Moss",
+                    "rarity_per_mille": 1.3
+                },
+                {
+                    "type": "symbol",
+                    "value": "Champagne",
+                    "rarity_per_mille": 2.4
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Light Olive",
+                    "rarity_per_mille": 2
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:04.336429Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/jinglebells-88912.lottie.json",
+            "emoji_id": "1108385588555284520",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-04-30T12:34:50.110683Z",
+            "floor_price": "5.39",
+            "unlocks_at": "2026-04-26T20:29:40Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019df163-e0b5-7a2c-ba0f-e3a5876c0227",
+            "bundle_id": null,
+            "tg_id": "WinterWreath-10295",
+            "collection_id": "13bada87-1353-4db5-b77c-d451c95365e0",
+            "external_collection_number": 10295,
+            "name": "Winter Wreath",
+            "photo_url": "https://nft.fragment.com/gift/winterwreath-10295.large.jpg",
+            "price": "3.05",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Happy Santa",
+                    "rarity_per_mille": 0.9
+                },
+                {
+                    "type": "symbol",
+                    "value": "Eikthyrnir",
+                    "rarity_per_mille": 1.6
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Neon Blue",
+                    "rarity_per_mille": 1.2
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:04.335528Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/winterwreath-10295.lottie.json",
+            "emoji_id": "816099496260796438",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-05-04T05:09:07.973289Z",
+            "floor_price": "1.92",
+            "unlocks_at": "2026-02-14T01:46:32Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019cd759-1ee5-78f6-95d9-50910fbf9f90",
+            "bundle_id": null,
+            "tg_id": "MoneyPot-43966",
+            "collection_id": "99f08b67-8723-4506-99e2-b16a5c58ef2a",
+            "external_collection_number": 43966,
+            "name": "Money Pot",
+            "photo_url": "https://nft.fragment.com/gift/moneypot-43966.large.jpg",
+            "price": "4.78",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Obelix",
+                    "rarity_per_mille": 1
+                },
+                {
+                    "type": "symbol",
+                    "value": "Avocado",
+                    "rarity_per_mille": 0.4
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Deep Cyan",
+                    "rarity_per_mille": 1.5
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:04.332898Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/moneypot-43966.lottie.json",
+            "emoji_id": "1137162165791227939",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-03-10T10:44:28.081313Z",
+            "floor_price": "2.38",
+            "unlocks_at": "2025-11-25T21:25:25Z",
+            "ton_address": "EQDLdREV2JjpMCv5zpszOCYhXMMHmsefUEQKEGA6Unm9qYrW",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019c485e-37e8-7215-84db-a7cf56a94c3c",
+            "bundle_id": null,
+            "tg_id": "DeskCalendar-161703",
+            "collection_id": "ae8f48a9-e090-44f2-9c61-5928702ab171",
+            "external_collection_number": 161703,
+            "name": "Desk Calendar",
+            "photo_url": "https://nft.fragment.com/gift/deskcalendar-161703.large.jpg",
+            "price": "600.05",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Shinto Shrine",
+                    "rarity_per_mille": 0
+                },
+                {
+                    "type": "symbol",
+                    "value": "Flamingo",
+                    "rarity_per_mille": 0.4
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Onyx Black",
+                    "rarity_per_mille": 1.9
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:04.201461Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/deskcalendar-161703.lottie.json",
+            "emoji_id": "1391391008142393371",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-05-01T22:19:38.6017Z",
+            "floor_price": "3.63",
+            "unlocks_at": "2026-05-01T22:19:37Z",
+            "is_crafted": true,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "b06182fd-8f16-45f3-8fc4-74a35d3bcab4",
+            "bundle_id": null,
+            "tg_id": "IceCream-66387",
+            "collection_id": "a4434643-6add-47e1-a68b-8c15b1807b75",
+            "external_collection_number": 66387,
+            "name": "Ice Cream",
+            "photo_url": "https://nft.fragment.com/gift/icecream-66387.medium.jpg",
+            "price": "20.92",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "BiteCoin",
+                    "rarity_per_mille": 1.5
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Midnight Blue",
+                    "rarity_per_mille": 1.2
+                },
+                {
+                    "type": "symbol",
+                    "value": "High Heels",
+                    "rarity_per_mille": 0.4
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:04.200064Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/icecream-66387.lottie.json",
+            "emoji_id": "2562980648230846502",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-03-03T11:08:46.403439Z",
+            "floor_price": "1.91",
+            "unlocks_at": "2026-01-31T23:43:05Z",
+            "is_crafted": false,
+            "premarket_data": {
+                "id": "b06182fd-8f16-45f3-8fc4-74a35d3bcab4",
+                "nft_id": "b06182fd-8f16-45f3-8fc4-74a35d3bcab4",
+                "seller_id": 565055075,
+                "deposit_percent": 0.5,
+                "status": "deleted",
+                "unlock_date": "2025-11-01T16:07:08.345971Z",
+                "created_at": "2025-10-11T16:06:33.091924Z",
+                "updated_at": "2025-11-01T19:18:47.661747Z"
+            },
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019d07b2-000b-7151-83ff-2a7797d52013",
+            "bundle_id": null,
+            "tg_id": "PoolFloat-147240",
+            "collection_id": "ef4acdf4-60c9-47b9-8501-59e2229074a4",
+            "external_collection_number": 147240,
+            "name": "Pool Float",
+            "photo_url": "https://storage.googleapis.com/generate_gifts/Pool%20Float/Royal%20Peacock_Azure%20Blue_Thunderbird.png",
+            "price": "6.84",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Royal Peacock",
+                    "rarity_per_mille": 2.5
+                },
+                {
+                    "type": "symbol",
+                    "value": "Thunderbird",
+                    "rarity_per_mille": 0.2
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Azure Blue",
+                    "rarity_per_mille": 1
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:04.131141Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/poolfloat-147240.lottie.json",
+            "emoji_id": "1391391008142393378",
+            "import_source": "user_bot",
+            "imported_at": "2026-03-19T20:03:19.54861Z",
+            "floor_price": "2.04",
+            "unlocks_at": "2026-03-19T20:03:17Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019d87d4-c5e5-7305-a8ad-8a60f455193c",
+            "bundle_id": null,
+            "tg_id": "PoolFloat-102648",
+            "collection_id": "ef4acdf4-60c9-47b9-8501-59e2229074a4",
+            "external_collection_number": 102648,
+            "name": "Pool Float",
+            "photo_url": "https://storage.googleapis.com/generate_gifts/Pool%20Float/Stonks_Platinum_Car.png",
+            "price": "8.91",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Stonks",
+                    "rarity_per_mille": 2
+                },
+                {
+                    "type": "symbol",
+                    "value": "Car",
+                    "rarity_per_mille": 0.5
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Platinum",
+                    "rarity_per_mille": 1.5
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:04.130446Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/poolfloat-102648.lottie.json",
+            "emoji_id": "1391391008142393378",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-04-13T17:12:41.844186Z",
+            "floor_price": "2.04",
+            "unlocks_at": "2026-04-09T10:57:32Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019d870f-6e08-75de-b79d-d46ad8fc816b",
+            "bundle_id": null,
+            "tg_id": "PoolFloat-131408",
+            "collection_id": "ef4acdf4-60c9-47b9-8501-59e2229074a4",
+            "external_collection_number": 131408,
+            "name": "Pool Float",
+            "photo_url": "https://storage.googleapis.com/generate_gifts/Pool%20Float/Pigeon_Indigo%20Dye_Flower%20Sun.png",
+            "price": "10.05",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Pigeon",
+                    "rarity_per_mille": 2
+                },
+                {
+                    "type": "symbol",
+                    "value": "Flower Sun",
+                    "rarity_per_mille": 0.5
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Indigo Dye",
+                    "rarity_per_mille": 1.5
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:04.129472Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/poolfloat-131408.lottie.json",
+            "emoji_id": "1391391008142393378",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-04-13T13:37:08.703128Z",
+            "floor_price": "2.04",
+            "unlocks_at": "2026-04-09T14:30:40Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019d3e5c-3c80-74aa-8708-0d2a08fe88aa",
+            "bundle_id": null,
+            "tg_id": "ViceCream-68114",
+            "collection_id": "b0fcb92a-0e46-46a3-8c60-ce226880632f",
+            "external_collection_number": 68114,
+            "name": "Vice Cream",
+            "photo_url": "https://storage.googleapis.com/generate_gifts/Vice%20Cream/Vintage%20Bunny_Electric%20Purple_Cheese.png",
+            "price": "8.04",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Vintage Bunny",
+                    "rarity_per_mille": 2
+                },
+                {
+                    "type": "symbol",
+                    "value": "Cheese",
+                    "rarity_per_mille": 0.3
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Electric Purple",
+                    "rarity_per_mille": 1
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:04.12832Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/vicecream-68114.lottie.json",
+            "emoji_id": "328260442013040674",
+            "import_source": "user_bot",
+            "imported_at": "2026-03-30T10:48:45.527769Z",
+            "floor_price": "1.77",
+            "unlocks_at": "2026-03-30T10:48:44Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019daced-0670-7472-81a6-13705863a534",
+            "bundle_id": null,
+            "tg_id": "MoodPack-165853",
+            "collection_id": "6a36ffb9-cb5f-43bc-af63-97ec22390bc4",
+            "external_collection_number": 165853,
+            "name": "Mood Pack",
+            "photo_url": "https://storage.googleapis.com/generate_gifts/Mood%20Pack/Void%20Beast_Silver%20Blue_Arcane%20Mirror.png",
+            "price": "16.03",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Void Beast",
+                    "rarity_per_mille": 1
+                },
+                {
+                    "type": "symbol",
+                    "value": "Arcane Mirror",
+                    "rarity_per_mille": 0.7
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Silver Blue",
+                    "rarity_per_mille": 1
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:04.127348Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/moodpack-165853.lottie.json",
+            "emoji_id": "669159254791290924",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-05-05T00:22:43.322073Z",
+            "floor_price": "2.42",
+            "unlocks_at": "2026-04-18T09:55:36Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019dd0ee-8cfd-74ca-93b9-29726bbcaad7",
+            "bundle_id": null,
+            "tg_id": "ViceCream-139846",
+            "collection_id": "b0fcb92a-0e46-46a3-8c60-ce226880632f",
+            "external_collection_number": 139846,
+            "name": "Vice Cream",
+            "photo_url": "https://storage.googleapis.com/generate_gifts/Vice%20Cream/Champion%20Cup_Midnight%20Blue_Spanner.png",
+            "price": "5.73",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Champion Cup",
+                    "rarity_per_mille": 2
+                },
+                {
+                    "type": "symbol",
+                    "value": "Spanner",
+                    "rarity_per_mille": 0.3
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Midnight Blue",
+                    "rarity_per_mille": 1.5
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:04.126242Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/vicecream-139846.lottie.json",
+            "emoji_id": "328260442013040674",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-04-27T21:53:07.905173Z",
+            "floor_price": "1.77",
+            "unlocks_at": "2026-04-20T11:43:15Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019c89a6-654f-768e-92db-e80bbc9755ba",
+            "bundle_id": null,
+            "tg_id": "HappyBrownie-53370",
+            "collection_id": "27ff8a55-f9b7-435d-af08-1063fdf1e026",
+            "external_collection_number": 53370,
+            "name": "Happy Brownie",
+            "photo_url": "https://nft.fragment.com/gift/happybrownie-53370.large.jpg",
+            "price": "7.03",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Smelly Yeti",
+                    "rarity_per_mille": 2.5
+                },
+                {
+                    "type": "symbol",
+                    "value": "Celtic Wolf",
+                    "rarity_per_mille": 0.4
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Burnt Sienna",
+                    "rarity_per_mille": 1.2
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:04.125186Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/happybrownie-53370.lottie.json",
+            "emoji_id": "328260442013040673",
+            "import_source": "user_bot",
+            "imported_at": "2026-02-23T08:38:31.482026Z",
+            "floor_price": "2.25",
+            "unlocks_at": "2025-11-26T13:54:46Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019ced4c-5482-7e31-8050-c1db675b976a",
+            "bundle_id": null,
+            "tg_id": "MousseCake-167041",
+            "collection_id": "5f6892b6-8fd6-4e90-b666-9ebfa5414ae5",
+            "external_collection_number": 167041,
+            "name": "Mousse Cake",
+            "photo_url": "https://nft.fragment.com/gift/moussecake-167041.large.jpg",
+            "price": "8.01",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Bubble Jar",
+                    "rarity_per_mille": 3
+                },
+                {
+                    "type": "symbol",
+                    "value": "Wizard Hat",
+                    "rarity_per_mille": 0.6
+                },
+                {
+                    "type": "backdrop",
+                    "value": "Azure Blue",
+                    "rarity_per_mille": 1
+                }
+            ],
+            "listed_at": "2026-05-20T23:23:04.044601Z",
+            "status": "listed",
+            "animation_url": "https://nft.fragment.com/gift/moussecake-167041.lottie.json",
+            "emoji_id": "750766425144033308",
+            "has_animation": true,
+            "import_source": "user_bot",
+            "imported_at": "2026-03-14T17:02:08.658634Z",
+            "floor_price": "2.56",
+            "unlocks_at": "2026-03-14T17:02:07Z",
+            "is_crafted": false,
+            "lucky_buy_eligible": true,
+            "is_owned": false
+        },
+        {
+            "id": "019d96b8-cd97-740f-b1f2-1de75c193965",
+            "bundle_id": null,
+            "tg_id": "PoolFloat-144509",
+            "collection_id": "ef4acdf4-60c9-47b9-8501-59e2229074a4",
+            "external_collection_number": 144509,
+            "name": "Pool Float",
+            "photo_url": "https://storage.googleapis.com/generate_gifts/Pool%20Float/Slick%20Track_Platinum_Elephant.png",
+            "price": "9.03",
+            "attributes": [
+                {
+                    "type": "model",
+                    "value": "Slick Track",
+                    "rarity_per_mille": 1.5
+                },
+                {
+                    "type": "symbol",
+                    "value": "Elephant",
                     "rarity_per_mille": 0.4
                 },
                 {
@@ -1859,93 +1942,15 @@
                     "rarity_per_mille": 1.5
                 }
             ],
-            "listed_at": "2026-05-17T12:39:12.040123Z",
+            "listed_at": "2026-05-20T23:23:04.043833Z",
             "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/poolfloat-52812.lottie.json",
+            "animation_url": "https://nft.fragment.com/gift/poolfloat-144509.lottie.json",
             "emoji_id": "1391391008142393378",
             "has_animation": true,
             "import_source": "user_bot",
-            "imported_at": "2026-04-08T18:03:43.990157Z",
-            "floor_price": "2.28",
-            "unlocks_at": "2026-04-08T18:03:42Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "9a574a98-f5fa-4d85-ba16-7707d6d3a3b9",
-            "bundle_id": null,
-            "tg_id": "PrettyPosy-16342",
-            "collection_id": "4b38ccc3-0518-4130-89da-def5abc3a4f4",
-            "external_collection_number": 16342,
-            "name": "Pretty Posy",
-            "photo_url": "https://nft.fragment.com/gift/prettyposy-16342.medium.jpg",
-            "price": "10.07",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Sea Shanty",
-                    "rarity_per_mille": 1.5
-                },
-                {
-                    "type": "symbol",
-                    "value": "Croissant",
-                    "rarity_per_mille": 0.7
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Amber",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.038034Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/prettyposy-16342.lottie.json",
-            "emoji_id": "1391391008142393376",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2025-12-07T18:52:56.756547Z",
-            "floor_price": "2.58",
-            "unlocks_at": "2025-11-24T12:21:54Z",
-            "is_crafted": false,
-            "lucky_buy_eligible": true,
-            "is_owned": false
-        },
-        {
-            "id": "1c51a1c9-e09d-440e-b9e5-92cd87b89f97",
-            "bundle_id": null,
-            "tg_id": "InputKey-102908",
-            "collection_id": "46c95fc3-b4a5-492c-9bb9-974c4c27d858",
-            "external_collection_number": 102908,
-            "name": "Input Key",
-            "photo_url": "https://nft.fragment.com/gift/inputkey-102908.medium.jpg",
-            "price": "16.04",
-            "attributes": [
-                {
-                    "type": "model",
-                    "value": "Search Engine",
-                    "rarity_per_mille": 1.5
-                },
-                {
-                    "type": "symbol",
-                    "value": "Tamagotchi",
-                    "rarity_per_mille": 0.4
-                },
-                {
-                    "type": "backdrop",
-                    "value": "Lavender",
-                    "rarity_per_mille": 1.5
-                }
-            ],
-            "listed_at": "2026-05-17T12:39:12.036362Z",
-            "status": "listed",
-            "animation_url": "https://nft.fragment.com/gift/inputkey-102908.lottie.json",
-            "emoji_id": "7173162320003121",
-            "has_animation": true,
-            "import_source": "user_bot",
-            "imported_at": "2025-10-12T10:54:23.744812Z",
-            "floor_price": "2.86",
-            "unlocks_at": "2025-10-12T09:51:26Z",
+            "imported_at": "2026-04-16T14:36:27.012184Z",
+            "floor_price": "2.04",
+            "unlocks_at": "2026-04-09T18:33:20Z",
             "is_crafted": false,
             "lucky_buy_eligible": true,
             "is_owned": false
